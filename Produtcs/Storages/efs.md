@@ -6,3 +6,4 @@ The service is designed to be highly scalable, highly available, and highly dura
 
 - EFS file system can be mounted on instances across multiple Availability Zones (AZ)
 - EFS is not available as a hardware disk on the instance
+- Encryption of data in transit and encryption at rest. This is an optional feature and has to be enabled by user if needed.

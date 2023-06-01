@@ -6,3 +6,4 @@ Designed for mission-critical systems, EBS volumes are replicated within an Avai
 
 - EBS volume can be attached to a single instance in the same Availability Zone (AZ).
 - EBS is not available as a hardware disk on the instance
+- Encryption (at rest and during transit) is an optional feature for EBS and has to be enabled by the user.
