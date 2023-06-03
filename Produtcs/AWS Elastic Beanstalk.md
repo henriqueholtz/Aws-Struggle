@@ -7,3 +7,5 @@ You cannot use Beanstalk to distribute incoming traffic across multiple targets.
 - There is no additional charge for AWS Elastic Beanstalk - you pay only for the AWS resources needed to store and run your applications.
 
 Key Benefits of AWS Elastic Beanstalk:
+
+![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt2-q45-i1.jpg)

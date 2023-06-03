@@ -7,3 +7,5 @@ APN Partner Types Overview:
 ![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt1-q1-i1.jpg)
 
 APN Technology Partner - APN Technology Partners provide hardware, connectivity services, or software solutions that are either hosted on or integrated with, the AWS Cloud. APN Technology Partners cannot help in migrating to AWS and managing applications on AWS Cloud.
+
+Organizations can take help from the AWS Partner Network (APN) to identify the right AWS services to build solutions on AWS Cloud.

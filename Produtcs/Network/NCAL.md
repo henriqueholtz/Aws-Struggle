@@ -1,5 +1,7 @@
 # Network Access Control List (Network ACL)
 
+Network Access Control List (Network ACL) acts as a firewall at the subnet level
+
 A network access control list (network ACL) is an optional layer of security for your VPC that acts as a firewall for controlling traffic in and out of one or more subnets (i.e. it works at subnet level). A network ACL has separate inbound and outbound rules, and each rule can either allow or deny traffic.
 
 network access control list (network ACL) Overview:
@@ -10,3 +12,5 @@ network access control list (network ACL) Overview:
 - Inbound and outbound rules;
 
 ![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt1-q42-i2.jpg)
+
+![img2](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt2-q52-i2.jpg)

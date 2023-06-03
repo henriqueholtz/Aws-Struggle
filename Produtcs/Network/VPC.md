@@ -18,4 +18,6 @@ A **gateway endpoint** is a gateway that you specify as a target for a route in 
 
 ### Exam Alert:
 
-You may see a question around this concept in the exam. Just remember that only Amazon S3 and Amazon DynamoDB support VPC gateway endpoint. All other services that support VPC Endpoints use a VPC interface endpoint (note that Amazon S3 supports the VPC interface endpoint as well).
+Just remember that only Amazon S3 and Amazon DynamoDB support **VPC gateway endpoint**.
+
+All other services that support VPC Endpoints use a **VPC interface endpoint** (note that Amazon S3 supports the VPC interface endpoint as well).
