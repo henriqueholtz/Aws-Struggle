@@ -7,3 +7,5 @@ AWS CloudTrail is a service that enables governance, compliance, operational aud
 Think account-specific activity and audit; think CloudTrail.
 
 CloudTrail cannot help in identifying the right AWS services to build solutions on AWS Cloud.
+
+You cannot use CloudTrail to track changes to each resource on AWS.

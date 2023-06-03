@@ -1,3 +1,15 @@
+# VPC
+
+- 1 VPC per region. An Amazon Virtual Private Cloud (Amazon VPC) spans all of the Availability Zones (AZ) in the Region
+
+Amazon Virtual Private Cloud (Amazon VPC) is a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including the selection of your IP address range, creation of subnets, and configuration of route tables and network gateways. An Amazon Virtual Private Cloud (Amazon VPC) spans all of the Availability Zones (AZ) in the Region.
+
+A subnet is a range of IP addresses within your Amazon Virtual Private Cloud (Amazon VPC). A **subnet spans only one Availability Zone (AZ) in the Region**.
+
+Amazon Virtual Private Cloud (Amazon VPC) and Subnet Overview:
+
+![img0](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt2-q49-i1.jpg)
+
 ## VPC Endpoint
 
 A VPC endpoint enables you to privately connect your VPC to supported AWS services and VPC endpoint services powered by AWS PrivateLink without requiring an internet gateway, NAT device, VPN connection, or AWS Direct Connect connection. Instances in your VPC do not require public IP addresses to communicate with resources in the service. Traffic between your VPC and the other service does not leave the Amazon network.

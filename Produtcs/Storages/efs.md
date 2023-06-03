@@ -7,3 +7,9 @@ The service is designed to be highly scalable, highly available, and highly dura
 - EFS file system can be mounted on instances across multiple Availability Zones (AZ)
 - EFS is not available as a hardware disk on the instance
 - Encryption of data in transit and encryption at rest. This is an optional feature and has to be enabled by user if needed.
+
+Amazon EFS is designed to provide massively parallel shared access to thousands of Amazon EC2 instances, enabling your applications to achieve high levels of aggregate throughput and IOPS with consistent low latencies.
+
+How Amazon Elastic File System (Amazon EFS) Works:
+
+![img](https://d1.awsstatic.com/r2018/b/EFS/product-page-diagram-Amazon-EFS-Launch_How-It-Works.cf947858f0ef3557b9fc14077bdf3f65b3f9ff43.png)

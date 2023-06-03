@@ -13,3 +13,13 @@ CloudWatch does not offer any recommendations vis-a-vis AWS best practices for c
 CloudWatch cannot help in identifying the right AWS services to build solutions on AWS Cloud.
 
 It cannot provide the status of your AWS resources.
+
+Amazon CloudWatch cannot be used to block users from certain geographies.
+
+Exam Alert:
+
+It is useful to note the difference between CloudWatch Billing vs AWS Budgets:
+
+CloudWatch Billing Alarms: Sends an alarm when the actual cost exceeds a certain threshold.
+
+AWS Budgets: Sends an alarm when the actual cost exceeds the budgeted amount or even when the cost forecast exceeds the budgeted amount.

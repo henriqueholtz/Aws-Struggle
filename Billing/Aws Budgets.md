@@ -7,3 +7,15 @@ AWS Budgets gives the ability to set custom budgets that alert you when your cos
 - Cost
 - Usage
 - Reservation
+
+Exam Alert:
+
+It is useful to note the difference between CloudWatch Billing vs AWS Budgets:
+
+CloudWatch Billing Alarms: Sends an alarm when the actual cost exceeds a certain threshold.
+
+AWS Budgets: Sends an alarm when the actual cost exceeds the budgeted amount or even when the cost forecast exceeds the budgeted amount.
+
+Exam Alert:
+
+Watch out for questions on AWS Cost Explorer vs AWS Budgets. AWS Budgets can alert you when your costs exceed your budgeted amount. Cost Explorer helps you visualize and manage your AWS costs and usage over time.

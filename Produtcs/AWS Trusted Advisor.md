@@ -4,6 +4,7 @@ AWS Trusted Advisor is an online tool that provides you real-time guidance to he
 
 - Trusted Advisor cannot be used to debug performance issues for this serverless application built using a microservices architecture.
 - Trusted Advisor cannot be used to prevent Distributed Denial-of-Service (DDoS) attack.
+- Trusted Advisor does not describe prohibited uses of the web services offered by Amazon Web Services.
 
 All AWS customers get access to the seven core Trusted Advisor checks to help increase the security and performance of the AWS environment.
 
