@@ -4,6 +4,10 @@ AWS Cost Explorer has an easy-to-use interface that lets you visualize, understa
 
 AWS Cost Explorer lets you explore your AWS costs and usage at both a high level and at a detailed level of analysis, and empowering you to dive deeper using many filtering dimensions (e.g., AWS Service, Region, Linked Account). It's a handy tool to keep track of costs of AWS resources, but auto-scaling is not part of its feature set.
 
+The rightsizing recommendations feature in AWS Cost Explorer helps you identify cost-saving opportunities by downsizing or terminating Amazon EC2 instances. You can see all of your underutilized Amazon EC2 instances across member accounts in a single view to immediately identify how much you can save.
+
+Explorer cannot provide a detailed report of your AWS costs by the hour into an Amazon S3 bucket.
+
 AWS Cost Explorer Reports:
 
 ![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt2-q37-i2.jpg)

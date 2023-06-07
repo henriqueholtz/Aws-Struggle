@@ -1,4 +1,8 @@
+# Site to Site VPN
+
 AWS Site-to-Site VPN creates a secure connection between your data center or branch office and your AWS cloud resources. This connection goes over the public internet.
+
+Site to Site VPN is a connectivity service and it does not specialize in data migration.
 
 How AWS Site-to-Site VPN Works:
 

@@ -5,6 +5,17 @@ AWS Trusted Advisor is an online tool that provides you real-time guidance to he
 - Trusted Advisor cannot be used to debug performance issues for this serverless application built using a microservices architecture.
 - Trusted Advisor cannot be used to prevent Distributed Denial-of-Service (DDoS) attack.
 - Trusted Advisor does not describe prohibited uses of the web services offered by Amazon Web Services.
+- You cannot use this service to create data-driven business cases for transitioning your business from on-premises to AWS Cloud.
+
+Advisor analyzes your AWS environment and provides best practice recommendations in five categories:
+
+- Cost Optimization
+- Performance
+- Security
+- Fault Tolerance
+- Service Limits.
+
+AWS Trusted Advisor checks the Amazon Elastic Compute Cloud (Amazon EC2) instances that were running at any time during the last 14 days and alerts you if the daily CPU utilization was 10% or less and network I/O was 5 MB or less on 4 or more days.
 
 All AWS customers get access to the seven core Trusted Advisor checks to help increase the security and performance of the AWS environment.
 
@@ -15,3 +26,7 @@ How Trusted Advisor Works:
 AWS Trusted Advisor Recommendations:
 
 ![img2](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt2-q3-i1.jpg)
+
+How AWS Trusted Advisor identifies low utilization Amazon EC2 instances:
+
+![img3](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt3-q28-i1.jpg)

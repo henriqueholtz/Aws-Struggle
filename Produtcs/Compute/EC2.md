@@ -12,3 +12,9 @@ Options:
 - EC2 Dedicated Host
 
 ![img pricing ec2](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt1-q8-i1.jpg)
+
+## Pricing
+
+- On-demand -> Spot = 90% of discount
+- Reserved -> On-demand = 72% of discount
+- Dedicated -> On-demand = 75% of discount

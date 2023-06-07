@@ -8,6 +8,8 @@ The service is designed to be highly scalable, highly available, and highly dura
 - EFS is not available as a hardware disk on the instance
 - Encryption of data in transit and encryption at rest. This is an optional feature and has to be enabled by user if needed.
 
+EFS Infrequent Access storage class is cost-optimized for files accessed less frequently. Data stored on the Amazon Elastic File System (Amazon EFS) - Infrequent Access storage class costs less than Standard and you will pay a fee each time you read from or write to a file.
+
 Amazon EFS is designed to provide massively parallel shared access to thousands of Amazon EC2 instances, enabling your applications to achieve high levels of aggregate throughput and IOPS with consistent low latencies.
 
 How Amazon Elastic File System (Amazon EFS) Works:

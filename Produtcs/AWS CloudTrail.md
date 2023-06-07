@@ -9,3 +9,5 @@ Think account-specific activity and audit; think CloudTrail.
 CloudTrail cannot help in identifying the right AWS services to build solutions on AWS Cloud.
 
 You cannot use CloudTrail to track changes to each resource on AWS.
+
+AWS CloudTrail cannot be used to centralize the server logs for Amazon Elastic Compute Cloud (Amazon EC2) instances or on-premises servers.

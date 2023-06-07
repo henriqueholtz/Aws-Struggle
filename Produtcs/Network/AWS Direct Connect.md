@@ -2,6 +2,8 @@ AWS Direct Connect is a cloud service solution that makes it easy to establish a
 
 Using AWS Direct Connect, you can establish private connectivity between AWS and your datacenter, office, or colocation environment, which in many cases can reduce your network costs, increase bandwidth throughput, and provide a more consistent network experience than Internet-based connections.
 
+Direct Connect is a connectivity service and it does not specialize in data migration.
+
 How Direct Connect Works:
 
 ![img](https://d1.awsstatic.com/AWS%20Direct%20Connect/Product-Page-Diagram_Direct-Connect.0166400894ac5f9c921c3f7a346f55d8c42f492c.png)

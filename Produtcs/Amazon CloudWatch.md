@@ -16,6 +16,8 @@ It cannot provide the status of your AWS resources.
 
 Amazon CloudWatch cannot be used to block users from certain geographies.
 
+Amazon CloudWatch cannot be used to identify under-utilized Amazon EC2 instances without manually configuring an alarm with the appropriate threshold to track the Amazon EC2 utilization.
+
 Exam Alert:
 
 It is useful to note the difference between CloudWatch Billing vs AWS Budgets:
