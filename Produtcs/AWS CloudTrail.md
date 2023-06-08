@@ -13,3 +13,5 @@ You cannot use CloudTrail to track changes to each resource on AWS.
 AWS CloudTrail cannot be used to centralize the server logs for Amazon Elastic Compute Cloud (Amazon EC2) instances or on-premises servers.
 
 CloudTrail cannot detect threats to your AWS account.
+
+AWS Config is focused on the configuration of your AWS resources and reports with detailed snapshots on how your resources have changed. Whereas AWS CloudTrail focuses on the events or API calls, that drive those changes. It focuses on the user, application, and activity performed on the system.

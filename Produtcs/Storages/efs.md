@@ -15,11 +15,12 @@ Amazon EFS is designed to provide massively parallel shared access to thousands 
 Encryption is not a default setting, but an optional configuration for Amazon EFS drives. Amazon EFS supports two forms of encryption for file systems, encryption of data in transit and encryption at rest.
 
 Amazon EFS is not a good fit for caching information on Amazon EC2 instances.
+Amazon EFS is a regional service storing data within and across multiple Availability Zones (AZ) for high availability and durability.
 
 How Amazon Elastic File System (Amazon EFS) Works:
 
 ![img](https://d1.awsstatic.com/r2018/b/EFS/product-page-diagram-Amazon-EFS-Launch_How-It-Works.cf947858f0ef3557b9fc14077bdf3f65b3f9ff43.png)
 
-Amazon EC2 instances can access your file system across AZs, regions, and VPCs, while on-premises servers can access using AWS Direct Connect or AWS VPN.
+Amazon EFS is a regional service storing data within and across multiple Availability Zones (AZs) for high availability and durability. Amazon EC2 instances can access your file system across AZs, regions, and VPCs, while on-premises servers can access using AWS Direct Connect or AWS VPN.
 
 ![img2](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt3-q23-i1.jpg)

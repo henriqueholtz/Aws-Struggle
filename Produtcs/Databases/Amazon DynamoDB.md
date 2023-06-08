@@ -8,6 +8,8 @@ Amazon DynamoDB is a NoSQL database that supports key-value and document data mo
 
 Amazon DynamoDB supports both key-value and document data models. This enables Amazon DynamoDB to have a flexible schema, so each row can have any number of columns at any point in time. This allows you to easily adapt the tables as your business requirements change, without having to redefine the table schema as you would in relational databases.
 
+All of your data is stored on solid-state disks (SSDs) and is automatically replicated across multiple Availability Zones (AZ) in an AWS Region, providing built-in high availability and data durability.
+
 Amazon DynamoDB cannot be used for online analytical processing.
 
 ### Amazon DynamoDB with DynamoDB Accelerator

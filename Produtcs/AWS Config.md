@@ -12,3 +12,11 @@ With AWS Config, you can do the following:
 4. Retrieve historical configurations of one or more resources.
 5. Receive a notification whenever a resource is created, modified, or deleted.
 6. View relationships between resources. For example, you might want to find all resources that use a particular security group.
+
+AWS Config provides a detailed view of the configuration of AWS resources in your AWS account. This includes how the resources are related to one another and how they were configured in the past so that you can see how the configurations and relationships change over time. AWS Config is designed to help you oversee your application resources in the following scenarios: Resource Administration, Auditing and Compliance, Managing and Troubleshooting Configuration Changes, Security Analysis.
+
+AWS Config is focused on the configuration of your AWS resources and reports with detailed snapshots on how your resources have changed. Whereas AWS CloudTrail focuses on the events or API calls, that drive those changes. It focuses on the user, application, and activity performed on the system.
+
+How AWS Config Works:
+
+![img](https://d1.awsstatic.com/Products/product-name/diagrams/product-page-diagram-Config_how-it-works.bd28728a9066c55d7ee69c0a655109001462e25b.png)

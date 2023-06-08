@@ -9,3 +9,7 @@ AWS Shield is a managed Distributed Denial of Service (DDoS) protection service 
 ### AWS Shield Advanced
 
 - Provides expanded DDoS attack protection for web applications running on the following resources: Amazon Elastic Compute Cloud, Elastic Load Balancing (ELB), Amazon CloudFront, Amazon Route 53, AWS Global Accelerator.
+
+AWS Shield Advanced offers some cost protection against spikes in your AWS bill that could result from a DDoS attack. This cost protection is provided for your Elastic Load Balancing load balancers, Amazon CloudFront distributions, Amazon Route 53 hosted zones, Amazon Elastic Compute Cloud instances, and your AWS Global Accelerator accelerators.
+
+AWS Shield Advanced is a paid service for all customers, irrespective of the Support plan.

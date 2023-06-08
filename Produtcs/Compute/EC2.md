@@ -15,6 +15,6 @@ Options:
 
 ## Pricing
 
-- On-demand -> Spot = 90% of discount
-- Reserved -> On-demand = 72% of discount
-- Dedicated -> On-demand = 75% of discount
+- Spot is up to 90% cheaper than On-demand
+- On-demand is up to 72% cheaper than Reserved Instances
+- On-demand is up to 75% cheaper than Dedicated Instances
