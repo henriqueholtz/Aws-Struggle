@@ -4,6 +4,8 @@ Using AWS Direct Connect, you can establish private connectivity between AWS and
 
 Direct Connect is a connectivity service and it does not specialize in data migration.
 
+AWS Direct Connect cannot be used to interconnect VPCs.
+
 How Direct Connect Works:
 
 ![img](https://d1.awsstatic.com/AWS%20Direct%20Connect/Product-Page-Diagram_Direct-Connect.0166400894ac5f9c921c3f7a346f55d8c42f492c.png)

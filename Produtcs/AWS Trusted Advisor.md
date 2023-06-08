@@ -19,6 +19,8 @@ AWS Trusted Advisor checks the Amazon Elastic Compute Cloud (Amazon EC2) instanc
 
 All AWS customers get access to the seven core Trusted Advisor checks to help increase the security and performance of the AWS environment.
 
+AWS Trusted Advisor cannot detect threats to your AWS account.
+
 How Trusted Advisor Works:
 
 ![img](https://d1.awsstatic.com/product-marketing/AWS%20Support/AWS-trusted-advisor.5b9909d5f29f680eeb12ccff536e8d88d8701304.png)

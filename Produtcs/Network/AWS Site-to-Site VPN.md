@@ -4,6 +4,8 @@ AWS Site-to-Site VPN creates a secure connection between your data center or bra
 
 Site to Site VPN is a connectivity service and it does not specialize in data migration.
 
+AWS Site-to-Site VPN cannot be used to interconnect VPCs.
+
 How AWS Site-to-Site VPN Works:
 
 ![img](https://d1.awsstatic.com/diagrams/product-page-diagram_Accelerated-Site-to-Site-VPN_How-it-Works@2x.89c94ea4b307abe21f82d9fd453fe3c72cacb2a3.png)

@@ -6,7 +6,7 @@ An instance store provides temporary block-level storage for your instance. This
 - EC2 instance store cannot be used for file sharing between instances.
 - Block level storage (like EBS)
 
-Instance store is ideal for the temporary storage of information that changes frequently, such as buffers, caches, scratch data, and other temporary content, or for data that is replicated across a fleet of instances, such as a load-balanced pool of web servers. Instance storage is temporary, data is lost if instance experiences failure or is terminated.
+Instance store is ideal for the temporary storage of information that changes frequently, such as **buffers, caches, scratch data, and other temporary content, or for data that is replicated across a fleet of instances**, such as a load-balanced pool of web servers. Instance storage is temporary, data is lost if instance experiences failure or is terminated.
 
 EC2 Instances Store Overview:
 

@@ -13,4 +13,8 @@ Amazon EBS Snapshots are a point in time copy of your block data. For the first 
 
 When using Amazon EBS direct APIs for Snapshots, additional Amazon EC2 data transfer charges will apply only when you use external or cross-region data transfers.
 
+Amazon EBS is not a good fit for caching information on Amazon EC2 instances
+
 A broad range of workloads, such as relational and non-relational databases, enterprise applications, containerized applications, big data analytics engines, file systems, and media workflows are widely deployed on Amazon EBS. As a special case, you should note that Amazon EBS Multi-Attach enables you to attach a single Provisioned IOPS SSD (io1 or io2) volume to multiple nitro based instances that are in the same Availability Zone (AZ).
+
+Amazon Elastic Block Store (Amazon EBS) volumes are not encrypted, by default. You can configure your AWS account to enforce the encryption of the new EBS volumes and snapshot copies that you create.

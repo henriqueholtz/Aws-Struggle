@@ -18,6 +18,10 @@ Amazon CloudWatch cannot be used to block users from certain geographies.
 
 Amazon CloudWatch cannot be used to identify under-utilized Amazon EC2 instances without manually configuring an alarm with the appropriate threshold to track the Amazon EC2 utilization.
 
+Amazon CloudWatch cannot detect threats to your AWS account.
+
+You can monitor your estimated AWS charges by using Amazon CloudWatch. **Billing metric data is stored in the US East (N. Virginia)** Region and represents worldwide charges. This data includes the estimated charges for every service in AWS that you use, in addition to the estimated overall total of your AWS charges
+
 Exam Alert:
 
 It is useful to note the difference between CloudWatch Billing vs AWS Budgets:

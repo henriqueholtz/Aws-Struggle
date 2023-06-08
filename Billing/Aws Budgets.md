@@ -6,9 +6,11 @@ AWS Budgets cannot provide the estimate of the monthly AWS bill based on the lis
 
 #### Types of budgets:
 
-- Cost
-- Usage
-- Reservation
+- Cost budget - Helps you plan how much you want to spend on a service.
+- Usage budget - Helps you plan how much you want to use one or more services.
+- Reservation budget - This helps you track the usage of your Reserved Instances (RI).
+  Two ways of doing it - Reserved Instance (RI) utilization budgets (This lets you see if your Reserved Instances (RI) are unused or under-utilized), Reserved Instance (RI) coverage budgets (This lets you see how much of your instance usage is covered by a reservation).
+- Savings Plans budget.
 
 Exam Alert:
 
