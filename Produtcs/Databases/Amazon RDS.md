@@ -18,3 +18,9 @@ Exam Alert:
 Please review the differences between Multi-AZ, Multi-Region and Read Replica deployments for RDS:
 
 ![img2](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt2-q17-i1.jpg)
+
+Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. Read Replicas allow you to create read-only copies that are synchronized with your master database. Read Replicas are used for improved read performance. You can also place your read replica in a different AWS Region closer to your users for better performance. Read Replicas are an example of horizontal scaling of resources.
+
+Read Replica Overview:
+
+![img3](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt3-q31-i1.jpg)

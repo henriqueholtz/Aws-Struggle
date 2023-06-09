@@ -1,4 +1,6 @@
-Amazon Elastic Compute Cloud (Amazon EC2) - Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the AWS cloud. You can use EC2 to provision virtual servers on AWS Cloud.
+# Amazon Elastic Compute Cloud (Amazon EC2)
+
+Amazon EC2 is a web service that provides secure, resizable compute capacity in the AWS cloud. You can use EC2 to provision virtual servers on AWS Cloud.
 
 - Instraestructure as a service
 - This is a regional service.
@@ -16,5 +18,5 @@ Options:
 ## Pricing
 
 - Spot is up to 90% cheaper than On-demand
-- On-demand is up to 72% cheaper than Reserved Instances
-- On-demand is up to 75% cheaper than Dedicated Instances
+- Reserved Instances is up to 75% cheaper than On-demand
+- Dedicated Instances is up to 70% cheaper than On-demand
