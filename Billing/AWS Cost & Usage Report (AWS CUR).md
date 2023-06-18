@@ -4,6 +4,8 @@ The AWS Cost & Usage Report (AWS CUR) contains the most comprehensive set of AWS
 
 You can use AWS Cost & Usage Report (AWS CUR) to publish your AWS billing reports to an Amazon Simple Storage Service (Amazon S3) bucket that you own. You can receive reports that break down your costs by the hour or month, by product or product resource, or by tags that you define yourself. AWS updates the report in your bucket once a day in comma-separated value (CSV) format.
 
+AWS Cost and Usage Reports cannot forecast your AWS account cost and usage.
+
 AWS Cost & Usage Report (AWS CUR) Overview:
 
 ![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt3-q59-i1.jpg)

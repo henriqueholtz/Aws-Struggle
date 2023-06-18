@@ -1,0 +1,3 @@
+# Scalability
+
+- Vertically (scale up)

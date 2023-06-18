@@ -6,7 +6,14 @@ AWS Cost Explorer lets you explore your AWS costs and usage at both a high level
 
 The rightsizing recommendations feature in AWS Cost Explorer helps you identify cost-saving opportunities by downsizing or terminating Amazon EC2 instances. You can see all of your underutilized Amazon EC2 instances across member accounts in a single view to immediately identify how much you can save.
 
-Explorer cannot provide a detailed report of your AWS costs by the hour into an Amazon S3 bucket.
+AWS Cost Explorer also supports forecasting to get a better idea of what your costs and usage may look like in the future so that you can plan.
+
+- Explorer cannot provide a detailed report of your AWS costs by the hour into an Amazon S3 bucket.
+- AWS Cost Explorer cannot be used to identify under-utilized Amazon EC2 instances.
+
+AWS Cost Explorer Features:
+
+![img0](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt4-q47-i1.jpg)
 
 AWS Cost Explorer Reports:
 

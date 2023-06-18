@@ -23,15 +23,29 @@ There are two types of VPC endpoints:
     - Interface endpoints
     - Gateway endpoints.
 
-An **interface endpoint** is an elastic network interface with a private IP address from the IP address range of your subnet that serves as an entry point for traffic destined to a supported service. Interface endpoints are powered by AWS PrivateLink, a technology that enables you to privately access services by using private IP addresses.
+An **interface endpoint** is an elastic network interface with a private IP address from the IP address range of your subnet that serves as an entry point for traffic destined to a supported service. Interface endpoints are powered by AWS PrivateLink, a technology that enables you to privately access services by using private IP addresses. (all services except DynamoDB supports VPC interface endpoint)
 
 A **gateway endpoint** is a gateway that you specify as a target for a route in your route table for traffic destined to a supported AWS service. The following AWS services are supported:
 
 - Amazon Simple Storage Service (Amazon S3)
 - Amazon DynamoDB
 
-### Exam Alert:
+## Exam Alert:
 
 Just remember that only Amazon S3 and Amazon DynamoDB support **VPC gateway endpoint**.
 
 All other services that support VPC Endpoints use a **VPC interface endpoint** (note that Amazon S3 supports the VPC interface endpoint as well).
+
+| VPC endpoint Types     | Services            |
+| ---------------------- | ------------------- |
+| VPC gateway endpoint   | DynamoDB & S3       |
+| VPC interface endpoint | All except DynamoDB |
+
+## Connect VPCs
+
+- AWS Transit Gateway (piece in the center);
+- AWS peering connection (to connect one by one);
+
+How AWS Transit Gateway can simplify your network:
+
+![img connecting VPCs](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt4-q17-i1.jpg)

@@ -1,5 +1,8 @@
 # AWS IAM
 
+- IAM Policy (JSON)
+  - Mandatory elements: Effect, Action;
+
 Most policies are stored in AWS as JSON documents. Identity-based policies and policies used to set permissions boundaries are JSON policy documents that you attach to a user or role. Resource-based policies are JSON policy documents that you attach to a resource.
 
 A JSON policy document includes these elements:
@@ -27,3 +30,10 @@ Statement – Use this main policy element as a container for the following elem
 ## IAM Policy
 
 Mandatory elements: Effect, Action;
+
+## Access
+
+- User
+- Role
+- Group
+- Policy

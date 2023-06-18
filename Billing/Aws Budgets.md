@@ -12,7 +12,7 @@ AWS Budgets cannot provide the estimate of the monthly AWS bill based on the lis
   Two ways of doing it - Reserved Instance (RI) utilization budgets (This lets you see if your Reserved Instances (RI) are unused or under-utilized), Reserved Instance (RI) coverage budgets (This lets you see how much of your instance usage is covered by a reservation).
 - Savings Plans budget.
 
-Exam Alert:
+## Exam Alert:
 
 It is useful to note the difference between CloudWatch Billing vs AWS Budgets:
 
@@ -22,6 +22,22 @@ AWS Budgets: Sends an alarm when the actual cost exceeds the budgeted amount or 
 
 AWS Budgets cannot be used to identify under-utilized EC2 instances without manually configuring coverage targets
 
-Exam Alert:
+AWS Budgets cannot forecast your AWS account cost and usage.
+
+Budgets types:
+
+- Cost budget
+- Resource budget
+- Reservation budget
+
+## Exam Alert:
 
 Watch out for questions on AWS Cost Explorer vs AWS Budgets. AWS Budgets can alert you when your costs exceed your budgeted amount. Cost Explorer helps you visualize and manage your AWS costs and usage over time.
+
+---
+
+You can define a utilization threshold and receive alerts when your Reserved Instances (RI) usage falls below that threshold. This lets you see if your Reserved Instances (RI) are unused or under-utilized. Reservation alerts are supported for Amazon EC2, Amazon RDS, Amazon Redshift, Amazon ElastiCache, and Amazon Elasticsearch reservations.
+
+AWS Budgets Overview:
+
+![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt4-q5-i1.jpg)

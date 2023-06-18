@@ -17,3 +17,13 @@ AWS Enterprise Support plan provides customers with concierge-like service where
 ## AWS Enterprise On-Ramp Support
 
 You should use the AWS Enterprise On-Ramp Support plan if you have production/business critical workloads in AWS and want 24x7 access to technical support and need expert guidance to grow and optimize in the Cloud. You get full access to AWS Trusted Advisor Best Practice Checks.
+
+# Exam Alert:
+
+Please review the differences between the AWS Developer Support, AWS Business Support, AWS Enterprise On-Ramp Support and AWS Enterprise Support plans as you can expect at least a couple of questions on the exam:
+
+![img2](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt4-q29-i1.jpg)
+
+![img3](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt4-q29-i2.jpg)
+
+![img4](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt4-q29-i3.jpg)

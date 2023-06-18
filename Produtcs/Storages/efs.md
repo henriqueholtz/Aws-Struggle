@@ -1,10 +1,15 @@
 # Elastic File System (EFS)
 
+- Allow Autogrow;
+- NFS;
+- Multi-AZs;
+
 Amazon Elastic File System (Amazon EFS) provides a simple, scalable, fully managed elastic NFS file system for use with AWS Cloud services and on-premises resources. It is built to scale on-demand to petabytes without disrupting applications, growing and shrinking automatically as you add and remove files, eliminating the need to provision and manage capacity to accommodate growth.
 
 The service is designed to be highly scalable, highly available, and highly durable. Amazon EFS file systems store data and metadata across multiple Availability Zones (AZ) in an AWS Region. EFS file system can be mounted on instances across multiple Availability Zones (AZ).
 
 - EFS file system can be mounted on instances across multiple Availability Zones (AZ)
+- EC2 instances can access files on an Amazon Elastic File System (Amazon EFS) file system across many Availability Zones (AZ), Regions and VPCs.
 - EFS is not available as a hardware disk on the instance
 - Encryption of data in transit and encryption at rest. This is an optional feature and has to be enabled by user if needed.
 
@@ -16,6 +21,8 @@ Encryption is not a default setting, but an optional configuration for Amazon EF
 
 Amazon EFS is not a good fit for caching information on Amazon EC2 instances.
 Amazon EFS is a regional service storing data within and across multiple Availability Zones (AZ) for high availability and durability.
+
+EFS storage option cannot directly be used to host a website, EFS needs to be mounted on Amazon EC2 to work as a static website.
 
 How Amazon Elastic File System (Amazon EFS) Works:
 

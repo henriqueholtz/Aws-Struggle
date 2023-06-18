@@ -1,5 +1,10 @@
 # Amazon CloudWatch
 
+- Monitor instance sensitive informations only if install the agent (ex: memory);
+- Monitor performance (CPU usage; memory only with agent because is a sensitive information);
+- Each 5 minutes by default. You can set to 1 minute for example;
+- Allow to create alarms to send notifications;
+
 Amazon CloudWatch is a monitoring and observability service built for DevOps engineers, developers, site reliability engineers (SREs), and IT managers. CloudWatch provides data and actionable insights to monitor applications, respond to system-wide performance changes, optimize resource utilization, and get a unified view of operational health. This is an excellent service for building Resilient systems.
 
 Think resource performance monitoring, events, and alerts; think CloudWatch
@@ -22,7 +27,9 @@ Amazon CloudWatch cannot detect threats to your AWS account.
 
 You can monitor your estimated AWS charges by using Amazon CloudWatch. **Billing metric data is stored in the US East (N. Virginia)** Region and represents worldwide charges. This data includes the estimated charges for every service in AWS that you use, in addition to the estimated overall total of your AWS charges
 
-Exam Alert:
+With CloudWatch Events, you can establish rules that trigger programmatic actions in response to a change in volume, snapshot, or encryption key state (though not for underutilized volume usage).
+
+## Exam Alert:
 
 It is useful to note the difference between CloudWatch Billing vs AWS Budgets:
 

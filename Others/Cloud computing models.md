@@ -22,7 +22,9 @@ AWS Elastic Beanstalk is an example of Platform as a Service (PaaS).
 
 ## Software as a Service (SaaS)
 
-SaaS provides you with a complete product that is run and managed by the service provider. With a SaaS offering, you don’t have to think about how the service is maintained or how the underlying infrastructure is managed. You only need to think about how you will use that particular software. AWS Rekognition is an example of a SaaS service.
+SaaS provides you with a complete product that is run and managed by the service provider. With a SaaS offering, you don’t have to think about how the service is maintained or how the underlying infrastructure is managed. You only need to think about how you will use that particular software.
+
+AWS Rekognition is an example of a SaaS service.
 
 Gmail is an example of Software as a Service (SaaS).
 

@@ -1,5 +1,9 @@
 # Amazon Elastic Container Service (Amazon ECS)
 
+- Types: EC2 or fargate (both are managment by AWS, EC2 you can access);
+- Integrates with IAM, SM, CW, ELB, CodeDeploy, CodeCommit...
+- Task defition (like Dockerfile)
+
 Amazon Elastic Container Service (Amazon ECS) is a highly scalable, fast, container management service that makes it easy to run, stop, and manage Docker containers on a cluster.
 
 - Amazon ECS cannot handle the application deployment automatically

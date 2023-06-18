@@ -2,6 +2,14 @@
 
 Think resource-specific history, audit, and compliance; think Config.
 
+Its a configuration tracking service and not an infrastructure tracking service.
+
+- Region service;
+- Config history (helps on troubleshouting);
+- Resources inventory;
+- Allow to proceed SQL queries (ex: count and order EC2's);
+- Config use events from CloudTrail;
+
 AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. Config continuously monitors and records your AWS resource configurations and allows you to automate the evaluation of recorded configurations against desired configurations.
 
 With AWS Config, you can do the following:

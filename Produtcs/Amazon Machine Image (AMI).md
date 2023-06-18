@@ -1,5 +1,8 @@
 # Amazon Machine Image (AMI)
 
+- Regional service;
+- Called AMI or snapshot (to EC2 for example)
+
 An Amazon Machine Image (AMI) provides the information required to launch an instance. You must specify an Amazon Machine Image (AMI) when you launch an instance.
 
 An Amazon Machine Image (AMI) includes the following:
@@ -23,3 +26,5 @@ The Amazon Machine Image (AMI) must be in the same region as that of the Amazon 
 Amazon Machine Images (AMI) Overview:
 
 ![img2](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt3-q34-i1.jpg)
+
+- Amazon EC2 instance AMI data **doesn't exists**

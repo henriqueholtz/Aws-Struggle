@@ -1,5 +1,9 @@
 # Elastic Block Storage (EBS)
 
+- Like an HD/Volume (ex: "E:\");
+- SSD/HDD (choice when creating);
+- No-autogrow (ex: you need to configure monitoring and execute a lamba do change the disk size)
+
 Amazon Elastic Block Store (EBS) is an easy to use, high-performance block storage service designed for use with Amazon Elastic Compute Cloud (EC2) for both throughput and transaction-intensive workloads at any scale.
 
 Designed for mission-critical systems, EBS volumes are replicated within an Availability Zone (AZ) and can easily scale to petabytes of data. You can attach an available EBS volume to one instance that is in the same Availability Zone (AZ) as the volume.
@@ -8,6 +12,7 @@ Designed for mission-critical systems, EBS volumes are replicated within an Avai
 - EBS is not available as a hardware disk on the instance
 - Encryption (at rest and during transit) is an optional feature for EBS and has to be enabled by the user.
 - For the Cloud Practitioner exam, you should consider that an EBS volume can only be mounted to one EC2 instance at a time.
+- Block level storage (like instance store)
 
 Amazon EBS Snapshots are a point in time copy of your block data. For the first snapshot of a volume, Amazon EBS saves a full copy of your data to Amazon S3. Amazon EBS Snapshots are stored incrementally, which means you are billed only for the changed blocks stored.
 
