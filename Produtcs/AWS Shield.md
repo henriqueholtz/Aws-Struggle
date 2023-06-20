@@ -4,11 +4,13 @@ AWS Shield is a managed Distributed Denial of Service (DDoS) protection service 
 
 ### AWS Shield Standard
 
+- Layers 3 and 4;
 - Enable by default to all customers
 - Hence this service falls under the purview of AWS.
 
 ### AWS Shield Advanced
 
+- Layers 3, 4 and 7;
 - Provides expanded DDoS attack protection for web applications running on the following resources: Amazon Elastic Compute Cloud, Elastic Load Balancing (ELB), Amazon CloudFront, Amazon Route 53, AWS Global Accelerator.
 - It falls under customer responsibility per the AWS Shared Responsibility Model.
 

@@ -36,3 +36,23 @@ It is useful to note the difference between CloudWatch Billing vs AWS Budgets:
 CloudWatch Billing Alarms: Sends an alarm when the actual cost exceeds a certain threshold.
 
 AWS Budgets: Sends an alarm when the actual cost exceeds the budgeted amount or even when the cost forecast exceeds the budgeted amount.
+
+---
+
+Amazon CloudWatch can be used to create an alarm to monitor your estimated charges. When you enable the monitoring of estimated charges for your AWS account, the estimated charges are calculated and sent several times daily to CloudWatch as metric data. You can choose to receive alerts by email when charges have exceeded a certain threshold. These alerts are triggered by Amazon CloudWatch and messages are sent using Amazon Simple Notification Service (Amazon SNS). Billing metric data is stored in the US East (N. Virginia) Region and reflects worldwide charges.
+
+The alarm triggers when your account billing exceeds the threshold you specify. **It triggers only when actual billing exceeds the threshold. It doesn't use projections based on your usage so far in the month.**
+
+Amazon CloudWatch Billing Alarms Overview:
+
+![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt4-q21-i1.jpg)
+
+# Exam Alert:
+
+It is useful to note the difference between Amazon CloudWatch Billing vs AWS Budgets:
+
+Amazon CloudWatch Billing Alarms: Sends an alarm when the actual cost exceeds a certain threshold.
+
+AWS Budgets: Sends an alarm when the actual cost exceeds the budgeted amount or even when the cost forecast exceeds the budgeted amount.
+
+---

@@ -1,0 +1,34 @@
+# AWS Products
+
+- **AWS Glue**: ETL (extract, transform and load data)
+- **Amazon Macie**: Find sensitive data;
+- **AWS Snowball**: Transfer data with hardware (physical transport);
+- **AWS X-Ray**: Analyze and debug serverless and distributed applications;
+- **OpsWorks**: Use code to automate the configurations of your servers using automation platforms like Chef and Puppet;
+- **AWS Device Farm**: Choose native, hybrid or web devices to run tests;
+- **AWS Fargate (ECS)**: Containers service without acess to the servers;
+- **Amazon ECS**: Container service with acess to the servers;
+- **Amazon EKS**: ;
+- **AWS Service Catalog**: Allows organizations to create and manage catalogs of IT services that are approved for use on AWS;
+- **AWS Elastic Beanstalk**: ;
+- **AWS Config**: ;
+- **AWS Cloud HSM**: ;
+- **AWS CloudFormation**: Infrastructure as code (like Terraform);
+- **AWS Artifact**: ;
+- **Amazon Polly**: ;
+- **Amazon SageMaker**: ;
+- **Amazon Pinpoint**: ;
+- **Amazon Rekognition**: Identify objects, people, text, etc in photos;
+- **Amazon Personalize**: Personalized recommendations like product recommendations (the same technology used by amazon.con);
+- **Amazon Lex**: Service to build apps using voice and text;
+- **Amazon Lightsail**: VPS (seems like an EC2 with fixed monthly costs);
+- **Amazon Step Function**: ;
+- **x**: ;
+- **x**: ;
+- **x**: ;
+- **x**: ;
+- **x**: ;
+- **x**: ;
+- **x**: ;
+- **x**: ;
+- **x**: ;

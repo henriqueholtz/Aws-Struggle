@@ -10,6 +10,8 @@ AWS Cost Explorer also supports forecasting to get a better idea of what your co
 
 - Explorer cannot provide a detailed report of your AWS costs by the hour into an Amazon S3 bucket.
 - AWS Cost Explorer cannot be used to identify under-utilized Amazon EC2 instances.
+- Billing alarms cannot be triggered via AWS Cost Explorer.
+- It cannot be used to compare the cost of running the IT infrastructure on-premises vs AWS Cloud.
 
 AWS Cost Explorer Features:
 

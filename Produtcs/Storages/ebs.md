@@ -3,6 +3,8 @@
 - Like an HD/Volume (ex: "E:\");
 - SSD/HDD (choice when creating);
 - No-autogrow (ex: you need to configure monitoring and execute a lamba do change the disk size)
+- It does not offer lifecycle configuration.
+- EBS volumes can only be mounted with Amazon EC2. (not with on-premises)
 
 Amazon Elastic Block Store (EBS) is an easy to use, high-performance block storage service designed for use with Amazon Elastic Compute Cloud (EC2) for both throughput and transaction-intensive workloads at any scale.
 

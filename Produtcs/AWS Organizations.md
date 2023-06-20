@@ -10,3 +10,5 @@ Key Features of AWS Organizations:
 
 - Volume discounts for Amazon EC2 and Amazon S3 aggregated across the member AWS accounts
 - Share the reserved Amazon EC2 instances amongst the member AWS accounts
+- Billing alarms cannot, however, be triggered using Consolidated Billing.
+- Cost-benefit between accounts of Reserved Instances (RI) only if he/she launches his/her instances in the same Availability Zone (AZ) where another person purchased her Reserved Instances

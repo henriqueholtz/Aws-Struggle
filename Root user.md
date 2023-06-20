@@ -7,3 +7,7 @@ AWS Root User Account Security Best Practices:
 ![img1](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt2-q54-i2.jpg)
 
 ![img2](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt2-q54-i1.jpg)
+
+---
+
+To send alerts whenever the AWS account root user signs in, you can create an Amazon Simple Notification Service (Amazon SNS) topic. Then, create an Amazon CloudWatch event rule to monitor userIdentity root logins from the AWS Management Console and send an email via Amazon SNS when the event triggers.

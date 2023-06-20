@@ -17,6 +17,7 @@ Amazon Virtual Private Cloud (Amazon VPC) and Subnet Overview:
 A VPC endpoint enables you to privately connect your VPC to supported AWS services and VPC endpoint services powered by AWS PrivateLink without requiring an internet gateway, NAT device, VPN connection, or AWS Direct Connect connection. Instances in your VPC do not require public IP addresses to communicate with resources in the service. Traffic between your VPC and the other service does not leave the Amazon network.
 
 - VPC Endpoint cannot be used to privately connect on-premises data center to AWS Cloud.
+- You cannot connect two VPCs using a VPC endpoint.
 
 There are two types of VPC endpoints:
 
@@ -29,6 +30,14 @@ A **gateway endpoint** is a gateway that you specify as a target for a route in 
 
 - Amazon Simple Storage Service (Amazon S3)
 - Amazon DynamoDB
+
+## Key concepts for VPCs:
+
+- Virtual private cloud (VPC) — A virtual network dedicated to your AWS account.
+- Subnet — A range of IP addresses in your VPC.
+- Route table — A set of rules, called routes, that are used to determine where network traffic is directed.
+- Internet Gateway — A gateway that you attach to your VPC to enable communication between resources in your VPC and the internet.
+- VPC endpoint — Enables you to privately connect your VPC to supported AWS services and VPC endpoint services powered by PrivateLink without requiring an internet gateway, NAT device, VPN connection, or AWS Direct Connect connection
 
 ## Exam Alert:
 

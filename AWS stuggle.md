@@ -3,6 +3,8 @@
 09/06/2023 => S3's
 12/06/2023 => Basic fundamentals
 12/06/2023 => Instances store, EBS, EFS
+19/06/2023 => Storage Gateway, S3 classes, FSx classes; VPC, AWS Direct Connect, VPN, IGW...
+21/06/2023 => (SG, NCAL, Subnet)
 
 # Channels
 

@@ -2,7 +2,7 @@
 
 Amazon Redshift is a fully-managed petabyte-scale cloud-based data warehouse product designed for large scale data set storage and analysis.
 
-Amazon Redshift does not support flexible schema.
+- Amazon Redshift does not support flexible schema. (requires a well-defined schema.)
 
 Encryption is an optional setting in Amazon Redshift. When you enable encryption for a cluster, the data-blocks and system metadata are encrypted for the cluster and its snapshots.
 

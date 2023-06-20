@@ -3,6 +3,8 @@
 - NoSQL
 - Scalable without outage (down time)
 - HA 3 DC's automatically
+- DynamoDB is schemaless.
+- DynamoDB can manage structured or semistructured data, including JSON documents.
 
 Amazon DynamoDB is a fully managed, serverless, key-value NoSQL database designed to run high-performance applications at any scale. DynamoDB offers built-in security, continuous backups, automated multi-region replication, in-memory caching, and data export tools.
 

@@ -25,6 +25,8 @@ AWS Config provides a detailed view of the configuration of AWS resources in you
 
 AWS Config is focused on the configuration of your AWS resources and reports with detailed snapshots on how your resources have changed. Whereas AWS CloudTrail focuses on the events or API calls, that drive those changes. It focuses on the user, application, and activity performed on the system.
 
+- You cannot use AWS Config for running commands or managing patches on servers.
+
 How AWS Config Works:
 
 ![img](https://d1.awsstatic.com/Products/product-name/diagrams/product-page-diagram-Config_how-it-works.bd28728a9066c55d7ee69c0a655109001462e25b.png)

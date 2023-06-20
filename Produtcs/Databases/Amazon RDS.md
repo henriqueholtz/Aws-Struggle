@@ -8,6 +8,7 @@ Amazon Relational Database Service (Amazon RDS) can encrypt your Amazon RDS DB i
 - You can enable Multi-AZ Secondary database which is replicated synchronously
 - Read-Replica (RR) can be Multi AZs / Multi Regions
 - AWS apply patches
+- RDS requires a well-defined schema.
 
 Amazon RDS Multi-AZ deployments provide enhanced availability and durability forAmazon Relational Database Service (Amazon RDS) instances, making them a natural fit for production database workloads. When you provision an Amazon RDS Multi-AZ Instance with one standby, Amazon RDS automatically creates a primary DB Instance and synchronously replicates the data to a standby instance in a different Availability Zone (AZ).
 

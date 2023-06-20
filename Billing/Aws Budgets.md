@@ -41,3 +41,17 @@ You can define a utilization threshold and receive alerts when your Reserved Ins
 AWS Budgets Overview:
 
 ![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt4-q5-i1.jpg)
+
+---
+
+# Exam Alert:
+
+It is useful to note the difference between Amazon CloudWatch Billing vs AWS Budgets:
+
+Amazon CloudWatch Billing Alarms: Sends an alarm when the actual cost exceeds a certain threshold.
+
+AWS Budgets: Sends an alarm when the actual cost exceeds the budgeted amount or even when the cost forecast exceeds the budgeted amount.
+
+---
+
+- It cannot be used to compare the cost of running the IT infrastructure on-premises vs AWS Cloud.
