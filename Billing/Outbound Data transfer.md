@@ -1,6 +1,6 @@
 # Inbound & outbound data transfer
 
-Only outbound data transfer is charged
+- Only outbound data transfer is charged (outbound of region)
 
 One of the main benefits of cloud services is the ability it gives you to optimize costs to match your needs, even as those needs change. AWS services do not have complex dependencies or licensing requirements, so you can get exactly what you need to build innovative, cost-effective solutions using the latest technology.
 
