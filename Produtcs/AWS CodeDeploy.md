@@ -5,3 +5,4 @@ AWS CodeDeploy is a service that automates code deployments to any instance, inc
 AWS CodeDeploy is a service that automates application deployments to a variety of compute services including Amazon EC2, AWS Fargate, AWS Lambda, and on-premises instances. CodeDeploy fully automates your application deployments eliminating the need for manual operations. CodeDeploy protects your application from downtime during deployments through rolling updates and deployment health tracking.
 
 - You cannot use this service to provision AWS infrastructure.
+- Unlike AWS CloudFormation, it does not deal with infrastructure configuration and orchestration.

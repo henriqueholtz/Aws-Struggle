@@ -11,6 +11,7 @@ This is very different from Beanstalk where you just upload your application cod
 - It cannot be used to automate code deployment.
 - It cannot be used to automatically deploy code to an Amazon EC2 instance.
 - You cannot use AWS CloudFormation for running commands or managing patches on servers.
+- AWS CloudFormation templates allow you to estimate the cost of your resources.
 
 AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all Regions and accounts. A stack is a collection of AWS resources that you can manage as a single unit. In other words, you can create, update, or delete a collection of resources by creating, updating, or deleting stacks.
 

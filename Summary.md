@@ -37,7 +37,7 @@
 - **AWS Shield Standard**: Managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS (layers 3 and 4) and it's activated to all customer by default;
 - **AWS Shield Advanced**: Optional and payed (layers e,4 and 7) to protect EC2, ELB, CloudFront, Route 53 and AWS Global Acelerator;
 - **AWS WAF**: AWS Web Application Firewall protect against DDoS attacks (layer 7);
-- **x**: ;
+- **Neptune**: Serverless graph database designed for superior scalability and availability;
 - **x**: ;
 
 # Storages

@@ -1,7 +1,9 @@
 # Amazon CloudWatch
 
+- The best to monitor metrics;
 - Monitor instance sensitive informations only if install the agent (ex: memory);
 - Monitor performance (CPU usage; memory only with agent because is a sensitive information);
+- Install agent or script to CloudWatch monitor your EC2 instance like memory information, disk usage etc;
 - Each 5 minutes by default. You can set to 1 minute for example;
 - Allow to create alarms to send notifications;
 

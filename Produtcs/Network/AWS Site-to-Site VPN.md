@@ -2,9 +2,8 @@
 
 AWS Site-to-Site VPN creates a secure connection between your data center or branch office and your AWS cloud resources. **This connection goes over the public internet.**
 
-Site to Site VPN is a connectivity service and it does not specialize in data migration.
-
-AWS Site-to-Site VPN cannot be used to interconnect VPCs.
+- Site to Site VPN is a connectivity service and it does not specialize in data migration.
+- AWS Site-to-Site VPN cannot be used to interconnect VPCs.
 
 How AWS Site-to-Site VPN Works:
 
@@ -19,3 +18,17 @@ A virtual private gateway (VGW) is the VPN concentrator on the Amazon side of th
 Components of an AWS Site-to-Site VPN:
 
 ![img2](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt3-q11-i1.jpg)
+
+## Customer gateway
+
+A customer gateway device is a physical or software appliance on your side of a Site-to-Site VPN connection. You or your network administrator must configure the device to work with the Site-to-Site VPN connection.
+
+You can enable access to your remote network from your VPC by creating an AWS Site-to-Site VPN (Site-to-Site VPN) connection, and configuring routing to pass traffic through the connection.
+
+More on customer gateway device:
+
+![img3](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt5-q41-i1.jpg)
+
+## A virtual private gateway (VGW)
+
+A virtual private gateway (VGW) device is a physical or software appliance on AWS side of a Site-to-Site VPN connection.

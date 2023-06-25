@@ -58,3 +58,7 @@ All other services that support VPC Endpoints use a **VPC interface endpoint** (
 How AWS Transit Gateway can simplify your network:
 
 ![img connecting VPCs](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt4-q17-i1.jpg)
+
+## A VPC endpoint interface
+
+An interface VPC endpoint (interface endpoint) enables you to connect to services powered by AWS PrivateLink. It is not a component of a connection between on-premises network and AWS.

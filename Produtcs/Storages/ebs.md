@@ -5,6 +5,7 @@
 - No-autogrow (ex: you need to configure monitoring and execute a lamba do change the disk size)
 - It does not offer lifecycle configuration.
 - EBS volumes can only be mounted with Amazon EC2. (not with on-premises)
+- EBS volume can be bound to several AZs (When using Amazon EBS Elastic Volumes, the volume, and the instance must be in the same Availability Zone (AZ).);
 
 Amazon Elastic Block Store (EBS) is an easy to use, high-performance block storage service designed for use with Amazon Elastic Compute Cloud (EC2) for both throughput and transaction-intensive workloads at any scale.
 
@@ -25,3 +26,13 @@ Amazon EBS is not a good fit for caching information on Amazon EC2 instances
 A broad range of workloads, such as relational and non-relational databases, enterprise applications, containerized applications, big data analytics engines, file systems, and media workflows are widely deployed on Amazon EBS. As a special case, you should note that Amazon EBS Multi-Attach enables you to attach a single Provisioned IOPS SSD (io1 or io2) volume to multiple nitro based instances that are in the same Availability Zone (AZ).
 
 Amazon Elastic Block Store (Amazon EBS) volumes are not encrypted, by default. You can configure your AWS account to enforce the encryption of the new EBS volumes and snapshot copies that you create.
+
+## Charges
+
+The fundamental charges for EBS volumes are:
+
+- Volume type (based on performance)
+- Storage volume in GB per month provisioned
+- Number of IOPS provisioned per month
+- Storage consumed by snapshots
+- Outbound data transfer.
