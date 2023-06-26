@@ -11,6 +11,8 @@ AWS Trusted Advisor is an online tool that provides you real-time guidance to he
 - You cannot use this service to create data-driven business cases for transitioning your business from on-premises to AWS Cloud.
 - AWS Trusted Advisor can check Amazon Elastic Block Store (Amazon EBS) volume configurations and warns when volumes appear to be underused.
 - It is not used to get operational insights of AWS resources
+- Can recommend best practice recommendations for performance, service limits and cost optimization;
+- It cannot notify configuration changes.
 
 Advisor analyzes your AWS environment and provides best practice recommendations in five categories:
 

@@ -9,7 +9,7 @@
 
 Amazon CloudWatch is a monitoring and observability service built for DevOps engineers, developers, site reliability engineers (SREs), and IT managers. CloudWatch provides data and actionable insights to monitor applications, respond to system-wide performance changes, optimize resource utilization, and get a unified view of operational health. This is an excellent service for building Resilient systems.
 
-Think resource performance monitoring, events, and alerts; think CloudWatch
+- Think resource performance monitoring, events, and alerts; think CloudWatch
 
 CloudWatch cannot be used to protect from web exploits such as SQL injection and cross-site scripting.
 

@@ -1,0 +1,5 @@
+# AWS Identity and Access Management (IAM) access advisor
+
+IAM Access advisor shows the service permissions granted to a user and when those services were last accessed. You can use this information to revise your policies. To summarize, you can identify unnecessary permissions so that you can revise your IAM policies accordingly.
+
+- Allows you to review permissions granted to an IAM user;

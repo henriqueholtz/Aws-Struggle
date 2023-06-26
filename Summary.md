@@ -38,6 +38,10 @@
 - **AWS Shield Advanced**: Optional and payed (layers e,4 and 7) to protect EC2, ELB, CloudFront, Route 53 and AWS Global Acelerator;
 - **AWS WAF**: AWS Web Application Firewall protect against DDoS attacks (layer 7);
 - **Neptune**: Serverless graph database designed for superior scalability and availability;
+- **Amazon Comprehend**: ;
+- **x**: ;
+- **x**: ;
+- **x**: ;
 - **x**: ;
 
 # Storages

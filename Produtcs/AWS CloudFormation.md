@@ -20,3 +20,5 @@ AWS CloudFormation allows you to use programming languages or a simple text file
 How CloudFormation Works:
 
 ![img](https://d1.awsstatic.com/Products/product-name/diagrams/product-page-diagram_CloudFormation.ad3a4c93b4fdd3366da3da0de4fb084d89a5d761.png)
+
+- AWS Cloud Development Kit (AWS CDK) helps code the same in higher-level languages and converts them into AWS CloudFormation templates.

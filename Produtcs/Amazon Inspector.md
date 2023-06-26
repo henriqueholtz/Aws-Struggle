@@ -9,3 +9,5 @@ Amazon Inspector is an automated security assessment service that helps improve 
 - Inspector does not offer any recommendations vis-a-vis AWS best practices for cost optimization, security, and performance improvement.
 - It cannot provide the status of your AWS resources.
 - It is not used to get operational insights of AWS resources.
+- After performing an assessment, Amazon Inspector produces a detailed list of security findings prioritized by level of severity.
+- It cannot notify configuration changes.

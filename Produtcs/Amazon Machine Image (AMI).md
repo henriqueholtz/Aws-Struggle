@@ -2,8 +2,8 @@
 
 - Regional service;
 - Called AMI or snapshot (to EC2 for example)
-
-An Amazon Machine Image (AMI) provides the information required to launch an instance. You must specify an Amazon Machine Image (AMI) when you launch an instance.
+- An Amazon Machine Image (AMI) provides the information required to launch an instance. You must specify an Amazon Machine Image (AMI) when you launch an instance.
+- EBS snapshots are one of the components of an AMI, but EBS snapshots alone cannot be used to deploy the same EC2 instances across different Availability Zones (AZs).
 
 An Amazon Machine Image (AMI) includes the following:
 

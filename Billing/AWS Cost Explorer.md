@@ -24,3 +24,9 @@ AWS Cost Explorer Reports:
 Exam Alert:
 
 Watch out for questions on AWS Cost Explorer vs AWS Budgets. AWS Budgets can alert you when your costs exceed your budgeted amount. Cost Explorer helps you visualize and manage your AWS costs and usage over time.
+
+---
+
+- AWS Cost Explorer also gives you access to a set of default reports to help you get started, while also allowing you to create custom reports from scratch.
+- Customers can receive Savings Plan recommendations at the member (linked) account level in addition to the existing AWS organization-level recommendations in AWS Cost Explorer
+- AWS Cost Explorer cannot provide granular billing details for the past month.
