@@ -58,3 +58,5 @@ Amazon CloudWatch Billing Alarms: Sends an alarm when the actual cost exceeds a 
 AWS Budgets: Sends an alarm when the actual cost exceeds the budgeted amount or even when the cost forecast exceeds the budgeted amount.
 
 ---
+
+You can use these insights to react and keep your application running smoothly. CloudWatch cannot however tell if the configuration of the resource has changed and what exactly changed.

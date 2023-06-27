@@ -15,6 +15,7 @@ AWS CloudTrail is a service that enables governance, compliance, operational aud
 - CloudTrail cannot help in identifying the right AWS services to build solutions on AWS Cloud.
 - You cannot use CloudTrail to track changes to each resource on AWS.
 - Billing alarms cannot be triggered via AWS CloudTrail.
+- By default, AWS CloudTrail logs all management events and does not include data events or Insights events. Additional charges apply for data and Insights events. All event types use the same CloudTrail JSON log format.
 
 AWS CloudTrail cannot be used to centralize the server logs for Amazon Elastic Compute Cloud (Amazon EC2) instances or on-premises servers.
 

@@ -1,5 +1,13 @@
 # [Storages in AWS](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/storage-services.html)
 
+### Categories
+
+1. Block Storage (low latency, to attach a single instance, same AZ)
+2. File Storage (multi instances, similar with NAS)
+3. Object Storage (flat address, key/value, metadata)
+
+---
+
 We have the following options of storage in AWS:
 
 - [Amazon Elastic Block Store - EBS](https://aws.amazon.com/ebs/)

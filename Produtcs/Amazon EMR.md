@@ -4,3 +4,4 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 - It cannot be used to take the load off the databases.
 - EMR is used for analytics and not to prepare data for analytics.
+- EMR is not suitable as a real-time streaming service.

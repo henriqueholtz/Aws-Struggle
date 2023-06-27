@@ -26,3 +26,8 @@ How AWS Fargate Works:
 # Amazon Elastic Container Service (Amazon ECS) - EC2 launch type
 
 Amazon Elastic Container Service (Amazon ECS) is a highly scalable, fast, container management service that makes it easy to run, stop, and manage Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances. Unlike AWS Fargate, this is not a fully managed service and you need to manage the underlying servers yourself.
+
+---
+
+- Task == container
+- Registry == Image

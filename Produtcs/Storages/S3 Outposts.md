@@ -11,3 +11,7 @@ Key Features:
 - Authentication and authorization using IAM, and S3 Access Points
 - Transfer data to AWS Regions using AWS DataSync
 - S3 Lifecycle expiration actions
+
+---
+
+- A manufacturing company is looking at a service that can offer AWS infrastructure, AWS services, APIs, and tools to its on-premises data center for running low latency applications => S3 Outposts

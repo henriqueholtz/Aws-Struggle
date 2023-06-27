@@ -2,6 +2,14 @@
 
 You should use AWS Developer Support if you are testing or doing early development on AWS and want the ability to get email-based technical support during business hours as well as general architectural guidance as you build and test. This plan only supports general architectural guidance.
 
+- A designated **Technical Account Manager (TAM)** is available only for AWS Enterprise Support plan;
+- Both Basic and AWS Developer Support plans have access to the core Trusted Advisor checks only;
+- **AWS Concierge** is a senior customer service agent who is assigned to your account when you subscribe to an Enterprise or qualified Reseller Support plan.
+- Contextual guidance on how services fit together to meet your specific use-case, workload, or application is part of the Business support plan.
+- AWS Infrastructure Event Management is a short-term engagement with AWS Support, available as part of the Enterprise-level Support product offering (also available to the AWS Enterprise On-Ramp Support plan subject to a cap of one per year), and available for additional purchase for AWS Business Support plan users.
+
+---
+
 ## AWS Business Support
 
 You should use AWS Business Support if you have production workloads on AWS and want 24x7 phone, email and chat access to technical support and architectural guidance in the context of your specific use-cases. You get full access to AWS Trusted Advisor Best Practice Checks. You also get access to Infrastructure Event Management for an additional fee.

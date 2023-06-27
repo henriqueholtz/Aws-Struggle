@@ -43,3 +43,7 @@ AWS Trusted Advisor Recommendations:
 How AWS Trusted Advisor identifies low utilization Amazon EC2 instances:
 
 ![img3](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt3-q28-i1.jpg)
+
+---
+
+While AWS Trusted advisor checks are based on the support plan the customer has. Both Basic and Developer support plans have access to the 7 core Trusted Advisor checks. Unlike documentation-based guidance (like AWS Well-Architected Tool), this tool provides recommendations against AWS Well Architected Framework best practices and is able to track against your current AWS architecture.

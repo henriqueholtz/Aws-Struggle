@@ -1,10 +1,16 @@
 # AWS Storage Gateway
 
-- Tape Gateway (seems with S3 Galcier ?!)
-- File Gateway (seems with S3 Standard ?!)
-- Volume Gateway (seems with EBS ?!)
+- **Tape Gateway** (seems with S3 Galcier ?!)
+- **Amazon S3 File Gateway** (seems with S3 Standard ?!)
+- **Amazon FSx File Gateway** (seems with S3 Standard ?!)
+- **Volume Gateway** (Block storage like EBS)
+- Backup gateway (same of tape gateway?): Block/File storage
 
-AWS Storage Gateway is a hybrid cloud storage service that connects your existing on-premises environments with the AWS Cloud. Customers use Storage Gateway to simplify storage management and reduce costs for key hybrid cloud storage use cases. These include moving tape backups to the cloud, reducing on-premises storage with cloud-backed file shares, providing low latency access to data in AWS for on-premises applications, as well as various migration, archiving, processing, and disaster recovery use cases.
+- **AWS Storage Gateway is a hybrid cloud storage service that connects your existing on-premises environments with the AWS Cloud.**
+- It's a hardware
+- Cacheable
+
+Customers use Storage Gateway to simplify storage management and reduce costs for key hybrid cloud storage use cases. These include moving tape backups to the cloud, reducing on-premises storage with cloud-backed file shares, providing low latency access to data in AWS for on-premises applications, as well as various migration, archiving, processing, and disaster recovery use cases.
 
 - data encryption automatically enabled (using SSL)
 

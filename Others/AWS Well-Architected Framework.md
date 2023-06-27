@@ -8,6 +8,9 @@ The AWS Well-Architected Framework helps you understand the pros and cons of dec
 
 The operational excellence pillar focuses on running and monitoring systems, and continually improving processes and procedures. Key topics include automating changes, responding to events, and defining standards to manage daily operations.
 
+- Antecipate failure;
+- Makfe frequent, small, reversible changes;
+
 ## Security Pillar
 
 The security pillar focuses on protecting information and systems. Key topics include confidentiality and integrity of data, managing user permissions, and establishing controls to detect security events.

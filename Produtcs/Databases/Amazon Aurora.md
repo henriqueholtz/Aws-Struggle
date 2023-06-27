@@ -4,3 +4,5 @@ Amazon Aurora with multi-master cluster - Amazon Aurora (Aurora) is a fully mana
 
 - You can't enable cross-Region replicas from multi-master clusters.
 - Amazon Aurora does not support flexible schema. (requires a well-defined schema.)
+
+You can use the standard "mysqldump" utility to export data from MySQL and "mysqlimport" utility to import data to Amazon Aurora, and vice-versa. You can also use Amazon RDS’s DB Snapshot migration feature to migrate an RDS MySQL DB Snapshot to Amazon Aurora using the AWS Management Console. Migration completes for most customers in under an hour, though the duration depends on format and data set size.

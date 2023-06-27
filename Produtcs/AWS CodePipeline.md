@@ -6,7 +6,8 @@ AWS CodePipeline is a continuous delivery service that enables you to model, vis
 
 AWS CodePipeline integrates with AWS services such as AWS CodeCommit, Amazon S3, AWS CodeBuild, AWS CodeDeploy, AWS Elastic Beanstalk, AWS CloudFormation, AWS OpsWorks, Amazon ECS, and AWS Lambda. To further elucidate, CodePipeline cannot by itself deploy the code, it can integrate with CodeDeploy for the actual deployment.
 
-This enables you to rapidly and reliably deliver features and updates.
+- This enables you to rapidly and reliably deliver features and updates.
+- AWS CodePipeline use Amazon CloudWatch Events to detect changes in repositories
 
 How AWS CodePipeline Works:
 

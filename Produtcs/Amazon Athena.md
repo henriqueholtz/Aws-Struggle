@@ -16,3 +16,5 @@ Key features of Amazon Athena:
 ![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt2-q55-i1.jpg)
 
 To use Amazon Athena, simply point to your data in Amazon Simple Storage Service (Amazon S3), define the schema, and start querying using standard SQL. Most results are delivered within seconds. With Amazon Athena, there’s no need for complex ETL jobs to prepare your data for analysis. This makes it easy for anyone with SQL skills to quickly analyze large-scale datasets.
+
+Athena can be used to analyze data, while Quicksight can be used to visualize this data via advanced interactive dashboards.
