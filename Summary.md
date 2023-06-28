@@ -1,4 +1,7 @@
-# AWS Infraestructure
+<details>
+<summary>
+    AWS Infraestructure
+</summary>
 
 ### Wavelength
 
@@ -30,12 +33,12 @@ An AWS Edge location is a site that CloudFront uses to cache copies of the conte
 
 ---
 
-</br>
-</br>
-</br>
-</br>
+</details>
 
-# AWS Products & services
+<details>
+<summary>
+    AWS Products & services
+</summary>
 
 ## AWS Glue
 
@@ -451,12 +454,12 @@ Lets you connect IoT devices to the AWS cloud without the need to provision or m
 
 ---
 
-</br>
-</br>
-</br>
-</br>
+</details>
 
-# Storages
+<details>
+<summary>
+    Storages
+</summary>
 
 ### AWS Backup
 
@@ -496,11 +499,12 @@ Block storage, phisically attatched to the instance. The data is temporary;
 
 ---
 
-</br>
-</br>
-</br>
+</details>
 
-# AWS Network
+<details>
+<summary>
+    AWS Network
+</summary>
 
 ### Virtual Private Cloud (VPC)
 
@@ -616,12 +620,12 @@ Physical and private connection between on-premises and VPC.
 
 ---
 
-</br>
-</br>
-</br>
-</br>
+</details>
 
-# AWS Security
+<details>
+<summary>
+    AWS Security
+</summary>
 
 ### AWS Security Token Service (AWS STS)
 
@@ -637,12 +641,12 @@ Temporary credentials
 
 ---
 
-</br>
-</br>
-</br>
-</br>
+</details>
 
-# AWS Supports
+<details>
+<summary>
+    AWS Supports
+</summary>
 
 https://aws.amazon.com/premiumsupport/plans/
 
@@ -723,12 +727,12 @@ Greater of $15,000.AWS Enterprise Support plan provides customers with concierge
 
 ---
 
-</br>
-</br>
-</br>
-</br>
+</details>
 
-# AWS Billing, Events and Logs
+<details>
+<summary>
+    AWS Billing, Events and Logs
+</summary>
 
 ### Free
 
@@ -785,12 +789,12 @@ Think resource performance monitoring, events, and alerts; think CloudWatch;
 
 ---
 
-</br>
-</br>
-</br>
-</br>
+</details>
 
-# Databases
+<details>
+<summary>
+    Databases
+</summary>
 
 | Type        | AWS services                     |
 | ----------- | -------------------------------- |
@@ -891,12 +895,12 @@ Serverless time series database service for IoT and operational applications tha
 
 ---
 
-</br>
-</br>
-</br>
-</br>
+</details>
 
-# Compute
+<details>
+<summary>
+    Compute
+</summary>
 
 ### EC2
 
@@ -934,7 +938,4 @@ Serverless time series database service for IoT and operational applications tha
 
 ---
 
-</br>
-</br>
-</br>
-</br>
+</details>
