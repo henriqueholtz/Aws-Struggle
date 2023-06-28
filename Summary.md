@@ -504,7 +504,21 @@ Block storage, phisically attatched to the instance. The data is temporary;
 
 ### Virtual Private Cloud (VPC)
 
-1 per region, can spans all AZs within the region
+1 per region, can spans all AZs within the region;
+
+---
+
+</br>
+
+### VPC Endpoint
+
+Connect service to VPC;
+Types: **Interface endpoints and Gateway endpoints**
+
+| VPC endpoint Types     | Services            |
+| ---------------------- | ------------------- |
+| VPC gateway endpoint   | DynamoDB & S3       |
+| VPC interface endpoint | All except DynamoDB |
 
 ---
 
@@ -528,7 +542,9 @@ Connection between multiple VPCs (like a central hub);
 
 ### SubNet
 
-Range of IP addresses;
+- Range of IP addresses within your VPC;
+- Spans only one AZ;
+- Each subnet must be associated with one NACL. If you don't explicitly associate a subnet with a NACL, the subnet is automatically associated with de default NACL (the default NACL allows everything)
 
 ---
 
@@ -544,7 +560,9 @@ Internet gateway;
 
 ### NACL
 
-Acts as a firewall for controlling traffic in and out of one or more subnets level (stateless);
+- Acts as a firewall for controlling traffic in and out of one or more subnets level (stateless);
+- Allow and Deny rules;
+- Inbound and outbound rules;
 
 ---
 
@@ -552,7 +570,49 @@ Acts as a firewall for controlling traffic in and out of one or more subnets lev
 
 ### Security Group (SG)
 
-Acts as a firewall at the instance level (statefull);
+- Acts as a firewall at the instance level (ex: eth0). Statefull. Customer is responsible;
+- Only allow rules;
+- Inbound and outbound rules;
+
+---
+
+</br>
+
+### NAT gateway
+
+Network Address Translation gateway (NAT gateway) is managed by AWS.
+
+---
+
+</br>
+
+### NAT instance
+
+Network Address Translation Instance is managed by you.
+
+---
+
+</br>
+
+### AWS Virtual Private Network (VPN)
+
+Create a secure connection (it goes over the public internet) between your on-premises and your VPC. Two types:
+
+- **AWS Site-to-Site VPN**:
+  - Enables you to connect your on-premises network to your VPC.
+  - Components:
+    - Virtual private gateway (VGW): VPN concentrator on the AWS side (physical or software appliance);
+    - Transit Gateway
+    - Customer Gateway: Resouce that provides information about your customer gateway device;
+- **AWS Client VPN**
+
+---
+
+</br>
+
+### AWS Direct Connect
+
+Physical and private connection between on-premises and VPC.
 
 ---
 
@@ -831,4 +891,50 @@ Serverless time series database service for IoT and operational applications tha
 
 ---
 
+</br>
+</br>
+</br>
+</br>
+
+# Compute
+
+### EC2
+
+- IaaS, regional
+- Ec2 + license= dedicated host;
+- **Options**:
+  - Spot Instance
+  - On-Demand Instance
+  - Reserved Instance (RI): Convertible, Standard
+  - Dedicated Host
+- **Types**:
+  - Memory Optimized
+  - Compute Optimized
+  - Storage Optimized
+  - Accelerated computing
+- **Pricing:**
+  - Spot is up to 90% cheaper than On-demand
+  - Reserved Instances is up to 75% cheaper than On-demand
+  - Include: RDS, EC2...
+  - Doesn't include: S3, CloudFront, IAM...
+  - Dedicated Instances is up to 70% cheaper than On-demand
+- **EC2 instance user data**: is the data that you specified in the form of a bootstrap script or configuration parameters while launching your instance.
+- **EC2 instance metadata**: is data about your instance that you can use to manage the instance.
+- **EC2 Image Builder**: simplifies the building, testing, and deployment of Virtual Machine and container images for use on AWS or on-premises
+
+---
+
+</br>
+
+### EC2 Auto Scaling
+
+- Scaling out instances (horizontally) based on performance;
+- New instances based on a EC2 template;
+- Create an EC2 Auto scaling group;
+
+---
+
+</br>
+</br>
+</br>
 </br>
