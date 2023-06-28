@@ -6,6 +6,7 @@
 19/06/2023 => Storage Gateway, S3 classes, FSx classes; VPC, AWS Direct Connect, VPN, IGW...
 21/06/2023 => SG, NCAL, Subnet, EC2, Scaling & Balancing
 26/06/2023 => Databases, and security
+28/06/2023 => Billing, AWS Abuse team, and general view about supports
 
 # Channels
 

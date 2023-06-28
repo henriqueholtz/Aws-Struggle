@@ -25,3 +25,7 @@ Warm standby can handle traffic at reduced levels immediately. Pilot light requi
 # Backup & Restore strategy
 
 Backup and Restore is associated with higher RTO (recovery time objective) and RPO (recovery point objective). This results in longer downtimes and greater loss of data between when the disaster event occurs and recovery. However, backup and restore can still be the right strategy for workloads because it is the easiest and least expensive strategy to implement.
+
+---
+
+# CloudEndure Disaster Recovery

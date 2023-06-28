@@ -1,6 +1,12 @@
-## AWS Developer Support
+# Supports
 
-You should use AWS Developer Support if you are testing or doing early development on AWS and want the ability to get email-based technical support during business hours as well as general architectural guidance as you build and test. This plan only supports general architectural guidance.
+- Basic
+- Developer
+- Business
+- Enterprise On-Ramp
+- Enterprise
+
+---
 
 - A designated **Technical Account Manager (TAM)** is available only for AWS Enterprise Support plan;
 - Both Basic and AWS Developer Support plans have access to the core Trusted Advisor checks only;
@@ -9,6 +15,10 @@ You should use AWS Developer Support if you are testing or doing early developme
 - AWS Infrastructure Event Management is a short-term engagement with AWS Support, available as part of the Enterprise-level Support product offering (also available to the AWS Enterprise On-Ramp Support plan subject to a cap of one per year), and available for additional purchase for AWS Business Support plan users.
 
 ---
+
+## AWS Developer Support
+
+You should use AWS Developer Support if you are testing or doing early development on AWS and want the ability to get email-based technical support during business hours as well as general architectural guidance as you build and test. This plan only supports general architectural guidance.
 
 ## AWS Business Support
 
