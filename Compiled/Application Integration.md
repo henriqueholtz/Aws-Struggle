@@ -17,3 +17,7 @@ Like RabbitMQ managed by AWS;
 ---
 
 </br>
+
+## Amazon Simple Notification Service (SNS)
+
+## Amazon Simple Queue Service (SQS)

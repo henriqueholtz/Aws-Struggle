@@ -30,6 +30,12 @@
 
 </br>
 
+## EC2 Instance Connect
+
+---
+
+</br>
+
 ## EC2 Auto Scaling
 
 - Scaling out instances (horizontally) based on performance;
@@ -48,7 +54,7 @@ Containers service without acess to the servers;
 
 </br>
 
-## Amazon ECS
+## Amazon Elastic Container Service (ECS)
 
 Container service with acess to the servers;
 
@@ -104,10 +110,12 @@ AWS's datacenter within another company;
 
 </br>
 
-## Wavelength
+## AWS Wavelength
 
 Connection between telephone operators (ex: "Tim") and AZs;
 
 ---
 
 </br>
+
+## AWS Lambda

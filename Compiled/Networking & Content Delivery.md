@@ -125,3 +125,13 @@ An AWS Edge location is a site that CloudFront uses to cache copies of the conte
 ---
 
 </br>
+
+## Amazon CloudFront
+
+---
+
+</br>
+
+## Amazon Route 53
+
+## AWS Global Accelerator

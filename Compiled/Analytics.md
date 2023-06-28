@@ -25,3 +25,11 @@ ETL (extract, transform and load data)
 ---
 
 </br>
+
+## Amazon Athena
+
+---
+
+</br>
+
+## Amazon OpenSearch Service

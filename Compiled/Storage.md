@@ -54,6 +54,14 @@ Transfer data with hardware (physical transport);
 
 </br>
 
+## AWS Snowball Edge
+
+## AWS Snowball
+
+## AWS Snowcone
+
+## AWS Snowmobile
+
 ## AWS OpsHub for Snow Family
 
 AWS OpsHub is a graphical user interface you can use to manage your AWS Snowball devices;

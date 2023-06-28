@@ -17,3 +17,9 @@ Choose native, hybrid or web devices to run tests;
 ---
 
 </br>
+
+## Amazon API Gateway
+
+---
+
+</br>

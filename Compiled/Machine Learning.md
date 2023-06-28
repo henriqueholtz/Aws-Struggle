@@ -57,3 +57,13 @@ Personalized recommendations like product recommendations (the same technology u
 ---
 
 </br>
+
+## Amazon Forecast
+
+---
+
+</br>
+
+## Amazon Transcribe
+
+## Amazon Translate

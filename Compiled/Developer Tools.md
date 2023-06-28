@@ -57,3 +57,7 @@ Analyze and debug serverless and distributed applications;
 ---
 
 </br>
+
+## AWS Cloud Development Kit (AWS CDK)
+
+## AWS Fault Injection Simulator (AWS FIS)

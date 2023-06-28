@@ -58,7 +58,7 @@ Optional and payed (layers 3, 4 and 7) to protect EC2, ELB, CloudFront, Route 53
 
 </br>
 
-## AWS Cloud HSM
+## AWS Cloud HSM / AWS CloudHSM
 
 Cloud-based hardware security module (HSM) that enables you to easily generate and use your encryption keys on the AWS Cloud;
 
@@ -90,3 +90,37 @@ Temporary credentials
 ---
 
 </br>
+
+## AWS Directory Service
+
+## AWS Directory Service for Microsoft Active Directory (AWS Managed Microsoft AD)
+
+## AWS Key Management Service (AWS KMS)
+
+## AWS Secrets Manager
+
+## AWS Security Hub
+
+## AWS Trusted Advisor
+
+## Access Key ID
+
+## AWS Firewall Manager
+
+## AWS Identity and Access Management (IAM)
+
+## AWS Identity and Access Management (IAM) access advisor
+
+## AWS IAM Identity Center (Successor to AWS Single Sign-On)
+
+## AWS Security Token Service (AWS STS)
+
+## AWS Systems Manager Session Manager
+
+## Credentials Report
+
+## DDoS
+
+## Multi-Factor Authentication (MFA)
+
+## Root User

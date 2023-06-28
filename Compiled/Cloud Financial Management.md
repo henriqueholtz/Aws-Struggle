@@ -27,3 +27,5 @@ Set custom budgets that alert you when your costs or usage exceed (or are foreca
 Available types: **cost, usage, reservetaion, savings plan**;
 
 ---
+
+## AWS Cloud Pricing

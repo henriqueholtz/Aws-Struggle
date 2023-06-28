@@ -18,6 +18,12 @@ Think resource performance monitoring, events, and alerts; think CloudWatch;
 
 </br>
 
+## Amazon CloudWatch Logs
+
+---
+
+</br>
+
 ## Amazon CloudWatch Billing
 
 - Sends an alarm when the actual cost exceeds a certain threshold.
@@ -57,3 +63,15 @@ Allows organizations to create and manage catalogs of IT services that are appro
 ---
 
 </br>
+
+## AWS CloudTrail
+
+## AWS CloudTrail Insights
+
+## AWS Compute Optimizer
+
+## AWS Organizations
+
+## AWS Systems Manager
+
+## AWS Well-Architected Tool
