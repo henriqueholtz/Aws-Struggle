@@ -119,3 +119,9 @@ Connection between telephone operators (ex: "Tim") and AZs;
 </br>
 
 ## AWS Lambda
+
+Servekess to run your code. It support environment variables. Needs specific permissions.
+
+---
+
+</br>

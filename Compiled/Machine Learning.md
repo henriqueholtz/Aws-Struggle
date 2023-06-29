@@ -60,10 +60,24 @@ Personalized recommendations like product recommendations (the same technology u
 
 ## Amazon Forecast
 
+Based on the same technology used at Amazon.com, Amazon Forecast uses ML to combine time series data with additional variables to build forecasts like retail demand, manufacturing demand, travel demand, revenue, IT capacity, logistics, and web traffic.
+
 ---
 
 </br>
 
 ## Amazon Transcribe
 
+It uses a deep learning process called automatic speech recognition (ASR) to **convert speech to text** quickly and accurately.
+
+---
+
+</br>
+
 ## Amazon Translate
+
+It's a neural machine translation service that delivers fast, high-quality, and affordable language translation.
+
+---
+
+</br>

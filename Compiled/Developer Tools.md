@@ -60,4 +60,18 @@ Analyze and debug serverless and distributed applications;
 
 ## AWS Cloud Development Kit (AWS CDK)
 
+Open-source software development framework to define your cloud application resources using familiar programming languages.
+
+In short, you use the AWS CDK framework to author AWS CDK projects which are executed to generate AWS CloudFormation templates.
+
+---
+
+</br>
+
 ## AWS Fault Injection Simulator (AWS FIS)
+
+Service for running fault injection experiments.
+
+---
+
+</br>

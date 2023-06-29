@@ -29,3 +29,5 @@ Available types: **cost, usage, reservetaion, savings plan**;
 ---
 
 ## AWS Cloud Pricing
+
+- Compute, Storage and outbound data transfer.

@@ -66,12 +66,55 @@ Allows organizations to create and manage catalogs of IT services that are appro
 
 ## AWS CloudTrail
 
+- Think account-specific activity and audit; think CloudTrail;
+- Every log is a JSON (single-line);
+- Allow automation / Integration with CloudWatch;
+- Regional service (but you can configure to centralize at one S3 - logs globally)
+- Active by default but the events are seized for a short time;
+- AWS cloud trail logs has encryption enabled by default.
+- Log every single event like:
+  - API requests on AWS
+  - Any change, click, action
+- CloudTrail cannot help in identifying the right AWS services to build solutions on AWS Cloud.
+- You cannot use CloudTrail to track changes to each resource on AWS.
+- Billing alarms cannot be triggered via AWS CloudTrail.
+- By default, AWS CloudTrail logs all management events and does not include data events or Insights events. Additional charges apply for data and Insights events. All event types use the same CloudTrail JSON log format.
+
+---
+
+</br>
+
 ## AWS CloudTrail Insights
+
+Helps AWS users identify and respond to unusual activity associated with write API calls by continuously analyzing CloudTrail management events.
+
+---
+
+</br>
 
 ## AWS Compute Optimizer
 
+Helps you identify the optimal AWS resource configurations, such as Amazon EC2 instance types, Amazon EBS volume configurations, and AWS Lambda function memory sizes, using machine learning to analyze historical utilization metrics
+
+---
+
+</br>
+
 ## AWS Organizations
+
+- Volume discounts for Amazon EC2 and Amazon S3 aggregated across the member AWS accounts
+- Share the reserved Amazon EC2 instances amongst the member AWS accounts
+- Billing alarms cannot, however, be triggered using Consolidated Billing.
+- Consolidated billing between EC2 RI (reserved instances) if they are in the same AZ.
+
+---
+
+</br>
 
 ## AWS Systems Manager
 
-## AWS Well-Architected Tool
+Gives you visibility and control of your infrastructure on AWS. Allows you to automate operational tasks such as collecting software inventory, running commands, managing patches, and configuring servers across AWS Cloud as well as on-premises infrastructure.
+
+---
+
+</br>

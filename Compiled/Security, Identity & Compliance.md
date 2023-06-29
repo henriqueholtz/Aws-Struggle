@@ -97,6 +97,12 @@ Temporary credentials
 
 ## AWS Key Management Service (AWS KMS)
 
+- Customer managed key (CMK)
+
+- AWS managed key
+
+- AWS owned key
+
 ## AWS Secrets Manager
 
 ## AWS Security Hub

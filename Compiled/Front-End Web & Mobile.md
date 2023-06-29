@@ -20,6 +20,10 @@ Choose native, hybrid or web devices to run tests;
 
 ## Amazon API Gateway
 
+APIs act as the "front door" for applications to access data, business logic, or functionality from your backend services.
+
+API Gateway supports containerized and serverless workloads, as well as web applications.
+
 ---
 
 </br>

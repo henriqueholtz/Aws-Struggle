@@ -128,10 +128,47 @@ An AWS Edge location is a site that CloudFront uses to cache copies of the conte
 
 ## Amazon CloudFront
 
+- Content Delivery Network (CDN) to data like videos, applications, APIS etc.
+- Edge location isn't an AZ neither a region. For example currently AWS has 31 regions 99 AZs, but have 400+ edge locations [see details](https://aws.amazon.com/about-aws/global-infrastructure/)
+- HTTP/HTTPS;
+- Custom domain (your own);
+- Integration with Shield, WAF, S3, etc...
+
 ---
 
 </br>
 
 ## Amazon Route 53
 
+Domain Name System (DNS) web service. Routing types:
+
+- **Weighted routing**
+- **Failover routing policy**
+- **Simple routing**
+- **Latency-based routing**
+- others...
+
+<details>
+<summary>
+See another routing types
+</summary>
+
+![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt1-q12-i2.jpg)
+
+</details>
+
+---
+
+</br>
+
 ## AWS Global Accelerator
+
+It improves performance for a wide range of applications over TCP or UDP by proxying packets at the edge to applications running in one or more AWS Regions. AWS Global Accelerator is a good fit for non-HTTP use cases, such as gaming (UDP), IoT (MQTT), or Voice over IP, as well as for HTTP use cases that specifically require static IP addresses or deterministic, fast regional failover.
+
+- AWS Global Accelerator and Amazon CloudFront use the same edge locations.
+- AWS Global Accelerator can be configured with an Elastic Load Balancer (ELB)
+- AWS Global Accelerator cannot be used to host static websites. Instead Amazon S3 can host static websites.
+
+---
+
+</br>

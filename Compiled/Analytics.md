@@ -28,8 +28,21 @@ ETL (extract, transform and load data)
 
 ## Amazon Athena
 
+- SQL queries (on S3 buckets for example)
+- Pay by query / size
+- Made from Apache Presto
+- Serveless
+- Point to an S3, define the schema and starts
+- Avoid complexity of ETL (AWS Glue)
+
 ---
 
 </br>
 
 ## Amazon OpenSearch Service
+
+To perform interactive log analytics, real-time application monitoring, website search, and more. OpenSearch is an open source, distributed search and analytics suite derived from Elasticsearch.
+
+---
+
+</br>
