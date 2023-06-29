@@ -31,3 +31,11 @@ Available types: **cost, usage, reservetaion, savings plan**;
 ## AWS Cloud Pricing
 
 - Compute, Storage and outbound data transfer.
+
+## Credits
+
+Rules/Order to be applied:
+
+- Soonest expiring
+- Least number of applicable products
+- Oldest credit

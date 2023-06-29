@@ -146,19 +146,9 @@ It's an AWS community platform where people can help each other.
 
 </br>
 
-## AWS Global Infrastructure
-
----
-
-</br>
-
-## AWS Local Zones
-
----
-
-</br>
-
 ## AWS Knowledge Center
+
+Contains the most frequent & common questions and requests and AWS provided solutions for the same
 
 ---
 
@@ -166,11 +156,35 @@ It's an AWS community platform where people can help each other.
 
 ## AWS Marketplace
 
+It's a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on AWS. Anyone with an AWS account can use AWS Marketplace as a consumer and can register to become a seller.
+
+#### AWS Marketplace offers two ways for sellers to deliver software to customers:
+
+- **Amazon Machine Image (AMI):** Offering an AMI is the preferred option for listing products in AWS Marketplace. They can be free or paid (chard by hour or month basis). With Bring-Your-Own-License (BYOL) customers with existing licenses can easily migrate to AWS.
+
+- **Software as a Service (SaaS):** If you offer a SaaS solution running on AWS (and are unable to build your product into an AMI) the SaaS listing offers our partners a way to market their software to customers.
+
+#### AWS Marketplace facilitates:
+
+- Sell Software as a Service (SaaS) solutions to AWS customers
+- AWS customer can buy software that has been bundled into customized Amazon Machine Image (AMIs) by the AWS Marketplace sellers
+
 ---
 
 </br>
 
 ## AWS Partner Solutions (formerly Quick Starts)
+
+Can be used to quickly deploy a popular technology on AWS.
+
+Each Partner Solution launches, configures, and runs the AWS compute, network, storage, and other services required to deploy a specific workload on AWS, using AWS best practices for security and availability.
+
+#### Partner Solutions include:
+
+1. A reference architecture for the deployment
+2. AWS CloudFormation templates (JSON or YAML scripts) that automate and configure the deployment
+3. A deployment guide, which explains the architecture and implementation in detail, and provides instructions for customizing the deployment
+4. Integrations that extends like Customer Relationship Management (CRM), workforce optimization (WFO), analytics, unified communications (UC), and other use cases.
 
 ---
 
@@ -178,17 +192,9 @@ It's an AWS community platform where people can help each other.
 
 ## AWS Resource Groups
 
----
+It's an entity that you can work with. Examples: EC2 instance, AWS CloudFormation stack, or an Amazon S3 bucket.
 
-</br>
-
-## AWS Regions
-
----
-
-</br>
-
-## AWS Share Responsability Model
+You can use AWS Resource Groups to organize your AWS resources. Resource groups make it easier to manage and automate tasks on large numbers of resources at a time.
 
 ---
 
@@ -196,30 +202,83 @@ It's an AWS community platform where people can help each other.
 
 ## AWS Whitepapers
 
+They are technical content authored by AWS and the AWS community to expand your knowledge of the cloud. They include technical whitepapers, technical guides, reference material, and reference architecture diagrams. You can find useful content for your deployment.
+
 ---
 
 </br>
 
-## AZs
-
 ## Cloud computing models
 
-## CloudEndure Disaster Recovery
+<details>
+<summary>Infrastructure as a Service (IaaS)</summary>
 
-## Disaster Recovery
+Amazon EC2
+
+</details>
+
+<details>
+<summary>Platform as a Service (PaaS)</summary>
+
+AWS Elastic Beanstalk.
+
+</details>
+
+<details>
+<summary>Software as a Service (SaaS)</summary>
+
+AWS Rekognition and Gmail
+
+</details>
+
+<details>
+<summary>Function as a Service (FaaS)</summary>
+
+AWS Lambda
+
+</details>
+
+![img](../Detailed/Others/cloud%20types.png)
+
+---
+
+</br>
 
 ## Cloud Foundations
 
-## Credits
+Provides a guided path to help customers deploy, configure, and secure their new workloads while ensuring they are ready for on-going operations in the cloud. Cloud Foundations helps customers navigate through the decisions they need to make through curated AWS Services, AWS Solutions, Partner Solutions, and Guidance.
+
+<details>
+<summary>Image</summary>
+
+![img](https://d1.awsstatic.com/solutions/cloud-foundations/cloud%20foundations%20categories.38982a3148b865419b7d16e64940ecf13b7419c4.png)
+
+</details>
+
+---
+
+</br>
 
 ## Reserved instances
 
+---
+
+</br>
+
 ## Savings Plans
 
-## Scale up vs Scale out vs Scale in
+---
+
+</br>
 
 ## Service control policies
 
-## Soft vs Hard limits
+---
+
+</br>
 
 ## TAGs
+
+---
+
+</br>
