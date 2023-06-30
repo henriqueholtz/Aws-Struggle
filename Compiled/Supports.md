@@ -31,6 +31,8 @@ https://aws.amazon.com/premiumsupport/plans/
 
 ---
 
+</br>
+
 ## Business, Enterprise On-Ramp, or Enterprise Support plan have access to these features:
 
 - Use-case guidance – What AWS products, features, and services to use to best support your specific needs;
@@ -38,6 +40,10 @@ https://aws.amazon.com/premiumsupport/plans/
 - The AWS Support API to interact with Support Center and Trusted Advisor. You can use the AWS Support API to automate support case management and Trusted Advisor operations.
 - Third-party software support – Help with Amazon Elastic Compute Cloud (Amazon EC2) instance operating systems and configuration. Also, help with the performance of the most popular third-party software components on AWS. Third-party software support isn't available for customers on Basic or Developer Support plans.
 - Supports an unlimited number of AWS Identity and Access Management (IAM) users who can open technical support cases.
+
+---
+
+</br>
 
 ## Enterprise On-Ramp or Enterprise Support plan have access to these features:
 
@@ -49,6 +55,8 @@ https://aws.amazon.com/premiumsupport/plans/
 
 ---
 
+</br>
+
 ## AWS Basic Support
 
 - Customer Service and Communities - 24x7 access to customer service, documentation, whitepapers, and AWS re:Post.
@@ -57,11 +65,15 @@ https://aws.amazon.com/premiumsupport/plans/
 
 ---
 
+</br>
+
 ## AWS Developer Support
 
 Greater of $29/month. You should use AWS Developer Support if you are testing or doing early development on AWS and want the ability to get email-based technical support during business hours as well as general architectural guidance as you build and test. This plan only supports general architectural guidance.
 
 ---
+
+</br>
 
 ## AWS Business Support
 
@@ -69,11 +81,15 @@ Greater of $100 / month. You should use AWS Business Support if you have product
 
 ---
 
+</br>
+
 ## AWS Enterprise On-Ramp Support
 
 Greater of $5,500. You should use the AWS Enterprise On-Ramp Support plan if you have production/business critical workloads in AWS and want 24x7 access to technical support and need expert guidance to grow and optimize in the Cloud.
 
 ---
+
+</br>
 
 ## AWS Enterprise Support
 
@@ -81,14 +97,52 @@ Greater of $15,000.AWS Enterprise Support plan provides customers with concierge
 
 ---
 
+</br>
+
 ## AWS Abuse team
+
+If you suspect that AWS resources are being used for abusive purposes, you need to contact the AWS Abuse team using the Report Amazon AWS abuse form, or by contacting abuse@amazonaws.com.
+
+---
+
+</br>
 
 ## AWS Partner Network (APN)
 
+---
+
+</br>
+
 ## AWS Professional Services
+
+Is a global team of experts that can help you realize your desired business outcomes when using the AWS Cloud. AWS Professional Services consultants can supplement your team with specialized skills and experience that can help you achieve quick results. Therefore, leveraging AWS Professional Services can accelerate the infrastructure migration for the startup.
+
+---
+
+</br>
 
 ## AWS Support Center
 
+AWS Support Center is the hub for managing your Support cases. All Developer-level and higher Support customers can open a Technical Support case online through the Support Center.
+
+Business and Enterprise-level customers can ask Support to call at a convenient phone number or strike up a conversation with one of our engineers via chat. Enterprise-level customers can have direct access to their dedicated Technical Account Manager.
+
+---
+
+</br>
+
 ## AWS Technical Account Manager (TAM)
 
+A Technical Account Manager (TAM) is a designated technical point of contact who helps you onboard for enterprise support plan, provides advocacy and guidance to help plan and build solutions using best practices, coordinates access to subject matter experts, assists with case management, presents insights and recommendations on your AWS spend, workload optimization, and event management, and proactively keeps your AWS environment healthy.
+
+---
+
+</br>
+
 ## Concierge Support Team
+
+The Concierge Support Team are AWS billing and account experts that specialize in working with enterprise accounts. They will quickly and efficiently assist you with your billing and account inquiries. The Concierge Support Team is only available for the Enterprise Support plan. Concierge Support Team cannot help in migrating to AWS and managing applications on AWS Cloud.
+
+---
+
+</br>
