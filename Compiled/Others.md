@@ -4,23 +4,54 @@
 
 ## Free
 
-- AWS Auto Scaling;
-- AWS Elastic Beanstalk;
-- ClodFormation;
+[Free tier "Always Free"](]https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsf.Free%20Tier%20Categories=*all)
+
+- Auto Scaling;
+- Elastic Beanstalk;
 - IAM (users, groups, roles);
+- AWS Well-Architected Tool
+- AWS Security Hub;
+- AWS Migration Hub;
+- AWS Organizations;
+- Migration Evaluator;
+- AWS re:Post;
+- AWS Resource Access Manager;
+
+#### Free with limits:
+
+- ClodFormation: 1.000 operations per month per account;
+- DynamoDB: 25gb;
+- Lambda: 1 million requests per month;
+- Amazon SNS: 1 million publishes per month;
+- CloudWatch: 10 custom metrics and alarms;
+- CloudFront: 1tb of data transfer out;
+- Cognito: 50.000 MAUs each month;
+- SES (Simple Email Service): 62.000 outbound messages per month;
+- SQS: 1 million of requests;
+- CodeBuild: 100 build minutes per month;
+- CodeCommit: 5 active users per month;
+- CodePipeline: 1 active pipeline per month;
+- AWS Database Migration Service: 750 hours Amazon DMS Single-AZ dms.t2.micro instance usage;
+- Glue: 1 million objects stores in the AWS Glue Data Catalog;
+- AWS Key Management Service: 20.000 requests per month;
+- StepFunctions: 4.000 state transitions per month;
+- Storage Gateway: 100gb per account;
+- CloudTrail: 1 trail that delivers a single copy of management events in each region;
 
 ---
 
 </br>
 
-## Global servoces
+## Global services
 
-- Amazon Route 53
-- Amazon Chime
-- Amazon WorkDocs
-- Amazon WorkMail
-- Amazon WorkSpaces
-- Amazon WorkLink.
+- Amazon Route 53;
+- Amazon CloudFront;
+- Amazon IAM;
+- Amazon Chime;
+- Amazon WorkDocs;
+- Amazon WorkMail;
+- Amazon WorkSpaces;
+- Amazon WorkLink;
 
 ---
 

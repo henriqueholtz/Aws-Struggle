@@ -6,22 +6,23 @@
 
 - IaaS, regional
 - Ec2 + license= dedicated host;
+- On-demand: Pay at least 60 seconds, and after that pay by second;
 - **Options**:
-- Spot Instance
-- On-Demand Instance
-- Reserved Instance (RI): Convertible, Standard
-- Dedicated Host
+  - Spot Instance
+  - On-Demand Instance
+  - Reserved Instance (RI): Convertible, Standard
+  - Dedicated Host
 - **Types**:
-- Memory Optimized
-- Compute Optimized
-- Storage Optimized
-- Accelerated computing
+  - Memory Optimized
+  - Compute Optimized
+  - Storage Optimized
+  - Accelerated computing
 - **Pricing:**
-- Spot is up to 90% cheaper than On-demand
-- Reserved Instances is up to 75% cheaper than On-demand
-- Include: RDS, EC2...
-- Doesn't include: S3, CloudFront, IAM...
-- Dedicated Instances is up to 70% cheaper than On-demand
+  - Spot is up to 90% cheaper than On-demand
+  - Reserved Instances is up to 75% cheaper than On-demand
+  - Include: RDS, EC2...
+  - Doesn't include: S3, CloudFront, IAM...
+  - Dedicated Instances is up to 70% cheaper than On-demand
 - **EC2 instance user data**: is the data that you specified in the form of a bootstrap script or configuration parameters while launching your instance.
 - **EC2 instance metadata**: is data about your instance that you can use to manage the instance.
 - **EC2 Image Builder**: simplifies the building, testing, and deployment of Virtual Machine and container images for use on AWS or on-premises

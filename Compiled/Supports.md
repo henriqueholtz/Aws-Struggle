@@ -109,6 +109,25 @@ If you suspect that AWS resources are being used for abusive purposes, you need 
 
 ## AWS Partner Network (APN)
 
+Is the global partner program for technology and consulting businesses that leverage AWS to build solutions and services for customers. The startup can work with experts from APN to build a custom solution for this infrastructure migration. There are 2 types:
+
+<details>
+<summary>APN Consulting Partner</summary> </br>
+They are professional services firms that help customers of all types and sizes design, architect, build, migrate, and manage their workloads and applications on AWS, accelerating their migration to AWS cloud.
+</details>
+
+<details>
+<summary>APN Technology Partner</summary> </br>
+APN Technology Partners provide hardware, connectivity services, or software solutions that are either hosted on or integrated with, the AWS Cloud. APN Technology Partners cannot help in migrating to AWS and managing applications on AWS Cloud.
+</details>
+
+<details>
+<summary>See more</summary> </br>
+
+![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt1-q1-i1.jpg)
+
+</details>
+
 ---
 
 </br>

@@ -102,7 +102,7 @@ Create a secure connection (it goes over the public internet) between your on-pr
   - Enables you to connect your on-premises network to your VPC.
   - Components:
     - Virtual private gateway (VGW): VPN concentrator on the AWS side (physical or software appliance);
-    - Transit Gateway
+    - Transit Gateway: Connection between multiple VPCs (like a central hub);
     - Customer Gateway: Resouce that provides information about your customer gateway device;
 - **AWS Client VPN**
 
