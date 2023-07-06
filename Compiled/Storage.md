@@ -12,10 +12,17 @@ With AWS Backup, you pay only for the amount of backup storage you use and the a
 
 ## S3
 
+<details>
+<summary>Difference between classes</summary>
+
+![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt1-q9-i1.jpg)
+
+</details>
+
 - Object Storage (key-value based).
 - The buckets are regional.
 - Data encryption automatically enabled.
-- 0bytes to 5tb per object;
+- 0 bytes to 5tb per object;
 
 <details>
 <summary>Classes</summary>
@@ -125,7 +132,8 @@ Instance store is ideal for the temporary storage of information that changes fr
 
 ## AWS Snowball
 
-Transfer data with hardware (physical transport);
+- Transfer data with hardware (physical transport);
+- specialize in data migration from on-premises to AWS Cloud;
 
 ---
 

@@ -22,6 +22,8 @@ Amazon Detective can analyze trillions of events from multiple data sources such
 
 Is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts, workloads, and data stored in S3;
 
+Analyze events from CloudTrail, VPC Flow Logs and DNS Logs.
+
 ---
 
 </br>
@@ -36,7 +38,8 @@ Monitor the security of EC2 instances (installing an agent)
 
 ## AWS WAF
 
-AWS Web Application Firewall protect against DDoS attacks, SQL Injection, etc (layer 7);
+- AWS Web Application Firewall protect against DDoS attacks, SQL Injection, cross-site scripting, etc (layer 7);
+- You can block users from certain geographies from accessing your content using WAF.
 
 ---
 
@@ -60,7 +63,7 @@ Optional and payed (layers 3, 4 and 7) to protect EC2, ELB, CloudFront, Route 53
 
 ## AWS Cloud HSM / AWS CloudHSM
 
-Cloud-based hardware security module (HSM) that enables you to easily generate and use your encryption keys on the AWS Cloud;
+Cloud-based **hardware** security module (HSM) that enables you to easily generate and use your **encryption** keys on the AWS Cloud;
 
 ---
 
@@ -129,6 +132,8 @@ Temporary credentials
 
 ## AWS Trusted Advisor
 
+- Can analyze your infra and identify unattached or underutilized EBS Volumes.
+
 ---
 
 </br>
@@ -186,6 +191,9 @@ Temporary credentials
 <details>
 <summary>AWS Shield</summary></br>
 AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS. AWS Shield provides always-on detection and automatic inline mitigations that minimize application downtime and latency, so there is no need to engage AWS Support to benefit from DDoS protection.
+
+Ex: Route 53, AWS Global Acelerator, EC2, ELB, CloudFront;
+
 </details>
 
 <details>

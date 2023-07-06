@@ -33,6 +33,8 @@
 
 ## EC2 Instance Connect
 
+- Connect to linux using SSH, and IAM policies.
+
 ---
 
 </br>

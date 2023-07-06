@@ -6,6 +6,7 @@
 
 Think resource performance monitoring, events, and alerts; think CloudWatch;
 
+- AWS monitoring service **for applications**;
 - The best to monitor metrics;
 - Monitor instance sensitive informations only if install the agent (ex: memory);
 - Monitor performance (CPU usage; memory only with agent because is a sensitive information);
@@ -13,6 +14,11 @@ Think resource performance monitoring, events, and alerts; think CloudWatch;
 - Each 5 minutes by default. You can set to 1 minute for example;
 - Allow to create alarms to send notifications;
 - Billing metric data is stored in the US East (N. Virginia)
+- Offers features to:
+  - Collect (application logs, AWS Service Logs)
+  - Monitor (metric graphs like CPU, memory... Alarms and traces)
+  - Analyze (Insights)
+- CloudWatch Events rule that triggers on a schedule via a cron expression;
 
 ---
 
@@ -92,9 +98,17 @@ Helps AWS users identify and respond to unusual activity associated with write A
 
 </br>
 
+## AWS CloudTrail Logs
+
+- Encription enabled by default;
+
+---
+
+</br>
+
 ## AWS Compute Optimizer
 
-Helps you identify the optimal AWS resource configurations, such as Amazon EC2 instance types, Amazon EBS volume configurations, and AWS Lambda function memory sizes, using machine learning to analyze historical utilization metrics
+Helps you identify the optimal AWS resource configurations, such as Amazon EC2 instance types, EC2 auto scaling groups, Amazon EBS volume configurations, and AWS Lambda function memory sizes, using machine learning to analyze historical utilization metrics
 
 ---
 

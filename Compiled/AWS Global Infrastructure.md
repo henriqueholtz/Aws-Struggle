@@ -7,6 +7,7 @@
 - Each AWS Region consists of a minimum of three AZs
 - Each AZ consists of one or more discrete data centers.
 - Each AZ must be between 100km of each other.
+- Multi AZ == High availability
 
 ---
 

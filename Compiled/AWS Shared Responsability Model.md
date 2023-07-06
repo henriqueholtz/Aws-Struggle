@@ -15,6 +15,7 @@
 - AWS Global Network Security
 - Ensuring AWS employees cannot access customer data
 - Compliance validation of Cloud infrastructure
+- Edge Location Management
 
 AWS Shared Responsibility Model Overview:
 

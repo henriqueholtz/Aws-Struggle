@@ -20,6 +20,9 @@ https://aws.amazon.com/premiumsupport/plans/
 - **AWS Support API** (to interact with Support Center and Trusted Advisor):
   - Business, Enterprise On-Ramp, or Enterprise
 - AWS Support App in Slack: Business, Enterprise On-Ramp, or Enterprise
+- Support cases:
+  - Developer: Allow one primary contact to open unlimeted cases.
+  - Business, Enterprise On-Rampe and Enterprise: Unlimited cases and unlimited contacts (IAM supported).
 - **Architectural Guidance**:
   - Developer: General;
   - Business: Contextual to your use-cases;
@@ -103,6 +106,8 @@ Greater of $15,000.AWS Enterprise Support plan provides customers with concierge
 
 If you suspect that AWS resources are being used for abusive purposes, you need to contact the AWS Abuse team using the Report Amazon AWS abuse form, or by contacting abuse@amazonaws.com.
 
+Examples: Spam, Port scanning, DDoS, Intrusion attempts, Hosting objectionable or copyrighted content, distributing malware;
+
 ---
 
 </br>
@@ -161,6 +166,12 @@ A Technical Account Manager (TAM) is a designated technical point of contact who
 ## Concierge Support Team
 
 The Concierge Support Team are AWS billing and account experts that specialize in working with enterprise accounts. They will quickly and efficiently assist you with your billing and account inquiries. The Concierge Support Team is only available for the Enterprise Support plan. Concierge Support Team cannot help in migrating to AWS and managing applications on AWS Cloud.
+
+---
+
+</br>
+
+## AWS Product Team
 
 ---
 

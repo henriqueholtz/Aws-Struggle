@@ -146,6 +146,8 @@ Domain Name System (DNS) web service. Routing types:
 - **Failover routing policy**
 - **Simple routing**
 - **Latency-based routing**
+- **Geolocation routing** (based on location of the users)
+- **Geoproximity routing** (based on location of the resources)
 - others...
 
 <details>

@@ -87,6 +87,13 @@ Database in-memory cache.
 - Read-Replica (RR) can be Multi AZs / Multi Regions
 - AWS apply patches
 
+<details>
+<summary>Details</summary></br>
+
+![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt3-q31-i2.jpg)
+
+</details>
+
 ---
 
 </br>
