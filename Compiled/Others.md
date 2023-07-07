@@ -292,23 +292,70 @@ Provides a guided path to help customers deploy, configure, and secure their new
 
 ## Reserved instances
 
+<details>
+<summary>Details</summary></br>
+Reservation alerts are supported for Amazon EC2, Amazon RDS, Amazon Redshift, Amazon ElastiCache, and Amazon Elasticsearch reservations.
+
+Amazon EC2 Reserved Instances (RI): You can use Amazon EC2 Reserved Instances (RI) to reserve capacity and receive a discount on your instance usage compared to running On-Demand instances.
+
+Amazon DynamoDB Reserved Capacity: If you can predict your need for Amazon DynamoDB read-and-write throughput, Reserved Capacity offers significant savings over the normal price of DynamoDB provisioned throughput capacity.
+
+Amazon ElastiCache Reserved Nodes: Amazon ElastiCache Reserved Nodes give you the option to make a low, one-time payment for each cache node you want to reserve and, in turn, receive a significant discount on the hourly charge for that node.
+
+Amazon RDS RIs: Like Amazon EC2 RIs, Amazon RDS RIs can be purchased using No Upfront, Partial Upfront, or All Upfront terms. All Reserved Instance types are available for Aurora, MySQL, MariaDB, PostgreSQL, Oracle, and SQL Server database engines.
+
+Amazon Redshift Reserved Nodes: If you intend to keep an Amazon Redshift cluster running continuously for a prolonged period, you should consider purchasing reserved-node offerings. These offerings provide significant savings over on-demand pricing, but they require you to reserve compute nodes and commit to paying for those nodes for either a 1- or 3-year duration.
+
+</details>
+
 ---
 
 </br>
 
 ## Savings Plans
 
+<details>
+<summary>Details</summary></br>
+
+### Compute Savings Plans
+
+Plans provide the most flexibility and help to reduce your costs by up to 66%. These plans automatically apply to EC2 instance usage regardless of instance family, size, AZ, region, OS or tenancy, and also apply to Fargate and Lambda usage. For example, with Compute Savings Plans, you can change from C4 to M5 instances, shift a workload from EU (Ireland) to EU (London), or move a workload from EC2 to Fargate or Lambda at any time and automatically continue to pay the Savings Plans price.
+
+### EC2 Instance Savings Plans
+
+Provide the lowest prices, offering savings up to 72% in exchange for a commitment to the usage of individual instance families in a region (e.g. M5 usage in N. Virginia). This automatically reduces your cost on the selected instance family in that region regardless of AZ, size, OS or tenancy. EC2 Instance Savings Plans give you the flexibility to change your usage between instances within a family in that region. For example, you can move from c5.xlarge running Windows to c5.2xlarge running Linux and automatically benefit from the Savings Plans prices.
+
+</details>
+
 ---
 
 </br>
 
-## Service control policies
+## Service control policies (SCPs)
+
+Service control policies (SCPs) are a type of organization policy that you can use to manage permissions in your organization. Service control policies (SCPs) offer central control over the maximum available permissions for all accounts in your organization. Service control policies (SCPs) help you to ensure your accounts stay within your organization’s access control guidelines. SCPs are available only in an organization that has all features enabled. SCPs aren't available if your organization has enabled only the consolidated billing features.
 
 ---
 
 </br>
 
 ## TAGs
+
+<details>
+<summary>Details</summary></br>
+For each resource, each tag key must be unique, and each tag key can have only one value
+
+You must activate both AWS generated tags and user-defined tags separately before they can appear in Cost Explorer or on a cost allocation report
+
+A Cost Allocation Tag is a label that you or AWS assigns to an AWS resource. Each tag consists of a key and a value. For each resource, each tag key must be unique, and each tag key can have only one value. You can use tags to organize your resources, and cost allocation tags to track your AWS costs on a detailed level.
+
+AWS provides two types of cost allocation tags, an AWS generated tags and user-defined tags. AWS defines, creates, and applies the AWS generated tags for you, and you define, create, and apply user-defined tags. You must activate both types of tags separately before they can appear in Cost Explorer or on a cost allocation report.
+
+AWS Cost Allocation Tags Overview:
+
+![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt3-q64-i1.jpg)
+
+</details>
 
 ---
 

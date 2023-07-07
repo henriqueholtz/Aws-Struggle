@@ -12,7 +12,7 @@ Deliver customer-centric engagement experiences by capturing customer usage data
 
 ## AWS Device Farm
 
-Choose native, hybrid or web devices to run tests;
+Choose native (mobile), hybrid or web devices to run tests;
 
 ---
 
