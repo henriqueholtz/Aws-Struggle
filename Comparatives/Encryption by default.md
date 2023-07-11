@@ -4,6 +4,7 @@
 
 - AWS CloudTrail Logs
 - s3
+- AWS Storage Gateway
 
 ## Disabled by default
 

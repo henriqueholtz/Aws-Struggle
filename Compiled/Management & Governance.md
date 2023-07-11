@@ -90,6 +90,7 @@ Allows organizations to create and manage catalogs of IT services that are appro
 - You cannot use CloudTrail to track changes to each resource on AWS.
 - Billing alarms cannot be triggered via AWS CloudTrail.
 - By default, AWS CloudTrail logs all management events and does not include data events or Insights events. Additional charges apply for data and Insights events. All event types use the same CloudTrail JSON log format.
+- Management events are logged by default;
 
 ---
 

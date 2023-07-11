@@ -130,6 +130,16 @@ Instance store is ideal for the temporary storage of information that changes fr
 
 # Snow Family
 
+![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt6-q60-i1.jpg)
+
+## AWS OpsHub for Snow Family
+
+AWS OpsHub is a graphical user interface you can use to manage your AWS Snowball devices;
+
+---
+
+</br>
+
 ## AWS Snowball
 
 - Transfer data with hardware (physical transport);
@@ -141,16 +151,25 @@ Instance store is ideal for the temporary storage of information that changes fr
 
 ## AWS Snowball Edge
 
+---
+
+</br>
+
 ## AWS Snowball
-
-## AWS Snowcone
-
-## AWS Snowmobile
-
-## AWS OpsHub for Snow Family
-
-AWS OpsHub is a graphical user interface you can use to manage your AWS Snowball devices;
 
 ---
 
 </br>
+
+## AWS Snowcone
+
+---
+
+</br>
+
+## AWS Snowmobile
+
+---
+
+</br>
+9

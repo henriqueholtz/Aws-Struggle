@@ -12,7 +12,7 @@ Identity and access management;
 
 ## Amazon Detective
 
-Amazon Detective can analyze trillions of events from multiple data sources such as Virtual Private Cloud (VPC) Flow Logs, AWS CloudTrail, and Amazon GuardDuty, and automatically creates a unified, interactive view of your resources, users, and the interactions between them over time.
+Amazon Detective can analyze trillions of events from multiple data sources such as Virtual Private Cloud (VPC) Flow Logs, AWS CloudTrail, and Amazon GuardDuty findings, and automatically creates a unified, interactive view of your resources, users, and the interactions between them over time.
 
 ---
 
@@ -20,7 +20,7 @@ Amazon Detective can analyze trillions of events from multiple data sources such
 
 ## Amazon GuardDuty
 
-Is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts, workloads, and data stored in S3;
+Is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to **protect your AWS accounts, workloads, and data stored in S3**;
 
 Analyze events from CloudTrail, VPC Flow Logs and DNS Logs.
 
@@ -38,8 +38,21 @@ Monitor the security of EC2 instances (installing an agent)
 
 ## AWS WAF
 
-- AWS Web Application Firewall protect against DDoS attacks, SQL Injection, cross-site scripting, etc (layer 7);
+Monitor HTTP(S) requests foward to CloudFront, Amazon API gateway API or LoadBalancer;
+
+- Works on Layer 7 (application);
+- Works agains DDoS attacks, SQL injection and cross-site scripting;
+- You can also use rate-based rules to mitigate the Web layer DDoS attack.
+- WAF cannot be used to improve the performance of a static website.
+- AWS WAF can block all requests except the ones that you allow
+- AWS WAF has to be enabled by the customer and comes under the customer's responsibility.
+- Can be deployed with:
+  - Amazon CloudFront
+  - Application Load Balancer
+  - Amazon API Gateway
+  - AWS AppSync
 - You can block users from certain geographies from accessing your content using WAF.
+- Can be used to protect on-premises resources if they are deployed behind an Application Load Balancer (ALB).
 
 ---
 
@@ -47,7 +60,7 @@ Monitor the security of EC2 instances (installing an agent)
 
 ## AWS Shield Standard
 
-Managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS (layers 3 and 4) and it's activated to all customer by default;
+Managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS (layers 3 and 4) and it's activated to all customers by default;
 
 ---
 

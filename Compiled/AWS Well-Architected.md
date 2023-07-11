@@ -12,6 +12,9 @@ The 6 Pillars:
   - Antecipate failure;
   - Makfe frequent, small, reversible changes;
   - Recommends maintaining infrastructure as code (IaC);
+  - Perform operations as code
+  - Refine operations procedures frequently
+  - Learn from all operational failures
 - **Security**: Focuses on protecting information and systems. Key topics include confidentiality and integrity of data, managing user permissions, and establishing controls to detect security events.
 - **Reliability**: Focuses on workloads performing their intended functions and how to recover quickly from failure to meet demands. Key topics include distributed system design, recovery planning, and adapting to changing requirements. The 3 pillars: Foundations, Change Management, Failure Management.
 - **Performance Efficiency**: Focuses on structured and streamlined allocation of IT and computing resources. Key topics include selecting resource types and sizes optimized for workload requirements, monitoring performance, and maintaining efficiency as business needs evolve.

@@ -8,6 +8,14 @@ Visualize, understand, and manage your AWS costs and usage over time;
 
 - 12 months in the past, the current month and 12 months ahead;
 - Can forecast costs but can't trigger an alarm;
+- Explorer cannot provide a detailed report of your AWS costs by the hour into an Amazon S3 bucket.
+- AWS Cost Explorer cannot be used to identify under-utilized Amazon EC2 instances.
+- Billing alarms cannot be triggered via AWS Cost Explorer.
+- It cannot be used to compare the cost of running the IT infrastructure on-premises vs AWS Cloud.
+- AWS Cost Explorer also gives you access to a set of default reports to help you get started, while also allowing you to create custom reports from scratch.
+- Customers can receive Savings Plan recommendations at the member (linked) account level in addition to the existing AWS organization-level recommendations in AWS Cost Explorer
+- AWS Cost Explorer cannot provide granular billing details for the past month.
+- helps you visualize and manage your AWS costs and usage over time.
 
 ---
 
