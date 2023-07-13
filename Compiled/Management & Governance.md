@@ -116,6 +116,8 @@ Helps AWS users identify and respond to unusual activity associated with write A
 
 Helps you identify the optimal AWS resource configurations, such as Amazon EC2 instance types, EC2 auto scaling groups, Amazon EBS volume configurations, and AWS Lambda function memory sizes, using machine learning to analyze historical utilization metrics
 
+- EBS, Lambda, EC2, and EC2 Auto Scaling Groups
+
 ---
 
 </br>

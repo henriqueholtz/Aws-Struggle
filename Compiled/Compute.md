@@ -34,6 +34,7 @@
 ## EC2 Instance Connect
 
 - Connect to linux using SSH, and IAM policies.
+- Will need port 22 to be open for traffic.
 
 ---
 
@@ -123,7 +124,7 @@ Connection between telephone operators (ex: "Tim") and AZs;
 
 ## AWS Lambda
 
-Servekess to run your code. It support environment variables. Needs specific permissions.
+Serveless to run your code. It support environment variables. Needs specific permissions.
 
 ---
 

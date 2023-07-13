@@ -155,7 +155,14 @@ OpsWorks lets you use Chef and Puppet to automate how servers are configured, de
 ## Total Cost of Ownership (TCO)
 
 - Server administration is included in the IT labor costs.
-- Power/Cooling are included in the server, storage, and network cost.
+- Power/Cooling/Space are included in the server, storage, and network cost.
+
+In Order:
+
+1. **Server costs** (hardware like server, rack + maintenance) and **Software** (licenses + maintenance)
+2. **Storage costs** (hardware storage disks) and **storage admin costs**
+3. **Network hardware** and **Network admin costs**
+4. **IT Labor costs** - Server admin | Virtualization Admin
 
 ---
 
