@@ -6,16 +6,15 @@ https://aws.amazon.com/premiumsupport/plans/
 
 - A designated **Technical Account Manager (TAM)** is available only for AWS Enterprise Support plan;
 - **AWS Concierge** is a senior customer service agent who is assigned to your account when you subscribe to an Enterprise or qualified Reseller Support plan.
-- **AWS Infrastructure Event Management** is a short-term engagement with AWS Support, available as part of the Enterprise-level Support product offering (also available to the AWS Enterprise On-Ramp Support plan subject to a cap of one per year), and available for additional purchase for AWS Business Support plan users.
+- **AWS Infrastructure Event Management** is a short-term engagement with AWS Support, available as part of the Enterprise-level Support product offering (also available to the AWS Enterprise On-Ramp Support plan subject to a cap of one per year), and available for additional purchase for AWS Business Support plan users:
+  - Available in the business for an additional fee;
+  - Available once per year to Enterprise On-Ramp;
+  - Available to Enterprise;
 - Support 24x7 (phone, email and chat) to technical support and architectural guidance in the context of your specific use-cases: Business, Enterprise and Enterprise On-Ramp
 - **Trusted Advisor**:
   - Only core Trusted Advisor checks: Developer and Basic;
   - Full access to AWS Trusted Advisor Best Practice Checks: Business, Enterprise and Enterprise On-Ramp;
 - **AWS Trusted Advisor Priority**: Enterprise;
-- **Infrastructure Event Management**:
-  - Available in the business for an additional fee;
-  - Available once per year to Enterprise On-Ramp;
-  - Available to Enterprise;
 - **AWS Incident Detection and Response**: Available to Enterprise for an additional free;
 - **AWS Support API** (to interact with Support Center and Trusted Advisor):
   - Business, Enterprise On-Ramp, or Enterprise
