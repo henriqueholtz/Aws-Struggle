@@ -30,7 +30,7 @@ Analyze events from CloudTrail, VPC Flow Logs and DNS Logs.
 
 ## Amazon Inspector
 
-Monitor the security of EC2 instances (installing an agent)
+Monitor the security and performance of EC2 instances (installing an agent)
 
 ---
 
@@ -62,13 +62,18 @@ Monitor HTTP(S) requests foward to CloudFront, Amazon API gateway API or LoadBal
 
 Managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS (layers 3 and 4) and it's activated to all customers by default;
 
+- CloudFront & Route 53;
+- Needs WebACL configurated (it's configurated in CloudFront);
+
 ---
 
 </br>
 
 ## AWS Shield Advanced
 
-Optional and payed (layers 3, 4 and 7) to protect EC2, ELB, CloudFront, Route 53 and AWS Global Acelerator;
+Optional and payed (layers 3 and 4, and using WAF layer 7) to protect EC2, ELB, CloudFront, Route 53 and AWS Global Acelerator, Elastic IPs;
+
+- Financial protection (if the infra scales cause an DDoS, the Sield Advanced can give back the additional costs);
 
 ---
 
@@ -399,7 +404,7 @@ You can generate and download a credentials report that lists all users in your 
 <summary>AWS Shield</summary></br>
 AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS. AWS Shield provides always-on detection and automatic inline mitigations that minimize application downtime and latency, so there is no need to engage AWS Support to benefit from DDoS protection.
 
-Ex: Route 53, AWS Global Acelerator, EC2, ELB, CloudFront;
+Ex: Route 53, AWS Global Acelerator, EC2, ELB, ALB, CloudFront, API GW;
 
 </details>
 

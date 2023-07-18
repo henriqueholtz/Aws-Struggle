@@ -130,7 +130,39 @@ Instance store is ideal for the temporary storage of information that changes fr
 
 # Snow Family
 
+<details>
+<summary>Snowcone</summary>
+
+- Smallest. File-based storage;
+- 8tb of usable storage to HDD | 14tb of usable storage to SSD;
+</details>
+
+<details>
+<summary>Snowball</summary>
+
+- Biggest (22.54kg);
+- 80tb of usable storage;
+- Version Snowball Edge Storage Optimized 210 TB;
+
+</details>
+
+<details>
+<summary>Snowmobile</summary>
+
+- Auto-mobile (semi-trailer truck)
+- 100pt
+
+</details>
+
+</br>
+
+<details>
+
+<summary>Image overwview</summary>
+
 ![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt6-q60-i1.jpg)
+
+</details>
 
 ## AWS OpsHub for Snow Family
 
@@ -172,4 +204,3 @@ AWS OpsHub is a graphical user interface you can use to manage your AWS Snowball
 ---
 
 </br>
-9

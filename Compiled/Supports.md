@@ -6,6 +6,7 @@ https://aws.amazon.com/premiumsupport/plans/
 
 - A designated **Technical Account Manager (TAM)** is available only for AWS Enterprise Support plan;
 - **AWS Concierge** is a senior customer service agent who is assigned to your account when you subscribe to an Enterprise or qualified Reseller Support plan.
+- **Concierge Support Team**: Billing and account inquiries. Available only to Enterprise plan;
 - **AWS Infrastructure Event Management** is a short-term engagement with AWS Support, available as part of the Enterprise-level Support product offering (also available to the AWS Enterprise On-Ramp Support plan subject to a cap of one per year), and available for additional purchase for AWS Business Support plan users:
   - Available in the business for an additional fee;
   - Available once per year to Enterprise On-Ramp;
@@ -37,10 +38,10 @@ https://aws.amazon.com/premiumsupport/plans/
 
 ## Business, Enterprise On-Ramp, or Enterprise Support plan have access to these features:
 
-- Use-case guidance – What AWS products, features, and services to use to best support your specific needs;
-- Full access to Trusted Advisor;
-- The AWS Support API to interact with Support Center and Trusted Advisor. You can use the AWS Support API to automate support case management and Trusted Advisor operations.
-- Third-party software support – Help with Amazon Elastic Compute Cloud (Amazon EC2) instance operating systems and configuration. Also, help with the performance of the most popular third-party software components on AWS. Third-party software support isn't available for customers on Basic or Developer Support plans.
+- **Use-case guidance** – What AWS products, features, and services to use to best support your specific needs;
+- **Full access to Trusted Advisor**;
+- The **AWS Support API** to interact with Support Center and Trusted Advisor. You can use the AWS Support API to automate support case management and Trusted Advisor operations.
+- **Third-party software support** – Help with Amazon Elastic Compute Cloud (Amazon EC2) instance operating systems and configuration. Also, help with the performance of the most popular third-party software components on AWS. Third-party software support isn't available for customers on Basic or Developer Support plans.
 - Supports an unlimited number of AWS Identity and Access Management (IAM) users who can open technical support cases.
 
 ---
@@ -49,9 +50,9 @@ https://aws.amazon.com/premiumsupport/plans/
 
 ## Enterprise On-Ramp or Enterprise Support plan have access to these features:
 
-- Application architecture guidance – Consultative guidance on how services fit together to meet your specific use case, workload, or application.
-- Infrastructure event management – Short-term engagement with AWS Support to get a deep understanding of your use case. After analysis, provide architectural and scaling guidance for an event.
-- Technical account manager – Work with a technical account manager (TAM) for your specific use cases and applications.
+- **Application architecture guidance** – Consultative guidance on how services fit together to meet your specific use case, workload, or application.
+- **Infrastructure event management** – Short-term engagement with AWS Support to get a deep understanding of your use case. After analysis, provide architectural and scaling guidance for an event.
+- **Technical account manager** – Work with a technical account manager (TAM) for your specific use cases and applications.
 - White-glove case routing.
 - Management business reviews.
 
@@ -62,8 +63,8 @@ https://aws.amazon.com/premiumsupport/plans/
 ## AWS Basic Support
 
 - Customer Service and Communities - 24x7 access to customer service, documentation, whitepapers, and AWS re:Post.
-- AWS Trusted Advisor - Access to core Trusted Advisor checks and guidance to provision your resources following best practices to increase performance and improve security.
-- AWS Personal Health Dashboard - A personalized view of the health of AWS services, and alerts when your resources are impacted.
+- **AWS Trusted Advisor** - Access to core Trusted Advisor checks and guidance to provision your resources following best practices to increase performance and improve security.
+- **AWS Personal Health Dashboard** - A personalized view of the health of AWS services, and alerts when your resources are impacted.
 
 ---
 

@@ -57,14 +57,6 @@
 
 </br>
 
-## OpsWorks
-
-Use code to automate the configurations of your servers using automation platforms like Chef and Puppet;
-
----
-
-</br>
-
 ## Amazon Sumerian
 
 Lets you create and run 3D, Augmented Reality (AR) and Virtual Reality (VR) applications;
@@ -145,6 +137,7 @@ You can view the overall status of AWS services, and you can sign in to view per
 
 OpsWorks lets you use Chef and Puppet to automate how servers are configured, deployed and managed across your Amazon EC2 instances or on-premises compute environments.
 
+- Use code to automate the configurations of your servers using automation platforms like Chef and Puppet;
 - OpsWorks cannot auto-scale resources.
 - You cannot use this service to provision AWS infrastructure.
 
@@ -363,6 +356,16 @@ AWS Cost Allocation Tags Overview:
 ![img](https://assets-pt.media.datacumulus.com/aws-clf-pt/assets/pt3-q64-i1.jpg)
 
 </details>
+
+---
+
+</br>
+
+## Amazon Simple Workflow Service (SWF)
+
+It's a web service that makes it easy to coordinate work across distributed application components. SWF enables applications for a range of use cases, including media processing, web application back-ends, business process workflows, and analytics pipelines, to be designed as a coordination of tasks.
+
+Actors: - Workflow Starters; - Deciders; - Activity workers;
 
 ---
 

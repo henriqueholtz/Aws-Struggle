@@ -51,8 +51,8 @@ SNS can be used to fan out notifications to end users using mobile push, SMS, an
 Message queuing service.
 
 - SQS offers two types of message queues:
-  - **Standard queues**;
-  - **FIFO queues**;
+  - **Standard queues** (default);
+  - **FIFO queues** (First-In-First-Out). Don't allow duplicates. Limited in 300 transactions per second;
 - Queues are regional;
 - If needed you can send a queue from a region to another using SNS;
 

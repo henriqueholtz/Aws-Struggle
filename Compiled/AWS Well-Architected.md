@@ -10,7 +10,7 @@ The 6 Pillars:
 
 - **Operational Excellence**: Focuses on running and monitoring systems, and continually improving processes and procedures. Key topics include automating changes, responding to events, and defining standards to manage daily operations.
   - Antecipate failure;
-  - Makfe frequent, small, reversible changes;
+  - Make frequent, small, reversible changes;
   - Recommends maintaining infrastructure as code (IaC);
   - Perform operations as code
   - Refine operations procedures frequently
