@@ -1,5 +1,11 @@
 # Encryption
 
+---
+
+### => Customers are responsible for managing their data (including encryption options)
+
+---
+
 ### Enabled by default
 
 - AWS CloudTrail Logs

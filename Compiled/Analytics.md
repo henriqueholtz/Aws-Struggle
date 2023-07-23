@@ -4,7 +4,7 @@
 
 ## Amazon EMR
 
-Is the industry-leading cloud big data platform for processing vast amounts of data using open source tools such as Hadoop, Apache Spark, Apache Hive, Apache HBase, Apache Flink, Apache Hudi, and Presto;
+Is the industry-leading cloud **big data** platform for processing vast amounts of data using open source tools such as Hadoop, Apache Spark, Apache Hive, Apache HBase, Apache Flink, Apache Hudi, and Presto;
 
 ---
 

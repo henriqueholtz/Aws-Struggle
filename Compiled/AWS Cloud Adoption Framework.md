@@ -24,8 +24,3 @@ AWS CAF identifies specific organizational capabilities that underpin successful
 - Operations
 
 ![img](https://docs.aws.amazon.com/images/whitepapers/latest/overview-aws-cloud-adoption-framework/images/cloud-adoption-2.png)
-
-## Examples:
-
-- Organize your teams around products and value streams;
-- Leverage agile methods to rapidly iterate and evolve;

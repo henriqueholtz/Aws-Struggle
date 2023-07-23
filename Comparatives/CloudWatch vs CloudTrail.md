@@ -10,4 +10,4 @@
 
 - Monitoring service **for users & resources**;
 - Useful for auditing or compliance purposes;
-- Trails allow tou to capture activity and deliver to cold storage;
+- Trails allow you to capture activity and deliver to cold storage;

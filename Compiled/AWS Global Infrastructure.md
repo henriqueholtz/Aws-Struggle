@@ -8,7 +8,7 @@
 - Each AZ consists of one or more discrete data centers.
 - Each AZ must be between 100km of each other.
 - Multi AZ == High availability
-- All traffic between Availability Zones (AZ) is encrypted
+- **All traffic between Availability Zones (AZ) is encrypted**
 
 ---
 

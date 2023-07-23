@@ -150,7 +150,7 @@ Instance store is ideal for the temporary storage of information that changes fr
 <summary>Snowmobile</summary>
 
 - Auto-mobile (semi-trailer truck)
-- 100pt
+- 100pt;
 
 </details>
 
@@ -182,24 +182,6 @@ AWS OpsHub is a graphical user interface you can use to manage your AWS Snowball
 </br>
 
 ## AWS Snowball Edge
-
----
-
-</br>
-
-## AWS Snowball
-
----
-
-</br>
-
-## AWS Snowcone
-
----
-
-</br>
-
-## AWS Snowmobile
 
 ---
 

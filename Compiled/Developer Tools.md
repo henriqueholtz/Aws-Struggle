@@ -20,7 +20,7 @@ Automates application deployments to a variety of compute services including EC2
 
 ## AWS CodePipeline
 
-Create anda manage the steps like install, build, test, etc.;
+Create and manage the steps like install, build, test, etc.;
 
 ---
 
@@ -44,7 +44,7 @@ is a fully managed artifact repository service that makes it easy for organizati
 
 ## AWS Cloud9
 
-IDE to code, run and debug fro browser;
+IDE to code, run and debug from browser;
 
 ---
 
@@ -62,7 +62,7 @@ Analyze and debug serverless and distributed applications;
 
 Open-source software development framework to define your cloud application resources using familiar programming languages.
 
-In short, you use the AWS CDK framework to author AWS CDK projects which are executed to generate AWS CloudFormation templates.
+In short, you use the AWS CDK framework to author AWS CDK projects which are executed **to generate AWS CloudFormation templates.**
 
 ---
 

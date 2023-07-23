@@ -32,7 +32,7 @@ The most comprehensive set of AWS cost and usage data available, including addit
 
 Set custom budgets that alert you when your costs or usage exceed (or are forecasted to exceed) your budgeted amount;
 
-Available types: **cost, usage, reservetaion, savings plan**;
+Available types: **cost, usage, reservation, savings plan**;
 
 ---
 

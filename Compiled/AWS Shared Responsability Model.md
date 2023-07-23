@@ -7,7 +7,7 @@
 - Maintain versions of an AWS Lambda function;
 - Operating system patches and updates of an Amazon EC2 instance;
 - Enabling data encryption of data stored in Amazon S3 buckets;
-- Database encryption - Under the AWS Shared Responsibility Model, customers are responsible for managing their data, including data encryption.
+- Database encryption - **Under the AWS Shared Responsibility Model, customers are responsible for managing their data, including data encryption.**
 - Customers that deploy an Amazon EC2 instance are responsible for the management of the guest operating system (including updates and security patches), any application software or utilities installed by the customer on the instances, and the configuration of the AWS-provided firewall (called a security group) on each instance.
 
 ## AWS

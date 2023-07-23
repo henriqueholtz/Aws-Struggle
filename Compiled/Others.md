@@ -85,9 +85,9 @@ Lets you convert media files from S3 into media files in the formats required by
 
 - Regional service;
 - Called AMI or snapshot (to EC2 for example)
-- An Amazon Machine Image (AMI) provides the information required to launch an instance. You must specify an Amazon Machine Image (AMI) when you launch an instance.
+- An AMI provides the information required to launch an instance. You must specify an AMI when you launch an instance.
 - EBS snapshots are one of the components of an AMI, but EBS snapshots alone cannot be used to deploy the same EC2 instances across different Availability Zones (AZs).
-- The Amazon Machine Image (AMI) must be in the same region as that of the Amazon EC2 instance to be launched. You can copy an AMI from one region to another.
+- The AMI must be in the same region as that of the Amazon EC2 instance to be launched. You can copy an AMI from one region to another.
 
 ---
 
@@ -296,15 +296,15 @@ Provides a guided path to help customers deploy, configure, and secure their new
 <summary>Details</summary></br>
 Reservation alerts are supported for Amazon EC2, Amazon RDS, Amazon Redshift, Amazon ElastiCache, and Amazon Elasticsearch reservations.
 
-Amazon EC2 Reserved Instances (RI): You can use Amazon EC2 Reserved Instances (RI) to reserve capacity and receive a discount on your instance usage compared to running On-Demand instances.
+**Amazon EC2 Reserved Instances (RI)**: You can use Amazon EC2 Reserved Instances (RI) to reserve capacity and receive a discount on your instance usage compared to running On-Demand instances.
 
-Amazon DynamoDB Reserved Capacity: If you can predict your need for Amazon DynamoDB read-and-write throughput, Reserved Capacity offers significant savings over the normal price of DynamoDB provisioned throughput capacity.
+**Amazon DynamoDB Reserved Capacity**: If you can predict your need for Amazon DynamoDB read-and-write throughput, Reserved Capacity offers significant savings over the normal price of DynamoDB provisioned throughput capacity.
 
-Amazon ElastiCache Reserved Nodes: Amazon ElastiCache Reserved Nodes give you the option to make a low, one-time payment for each cache node you want to reserve and, in turn, receive a significant discount on the hourly charge for that node.
+**Amazon ElastiCache Reserved Nodes**: Amazon ElastiCache Reserved Nodes give you the option to make a low, one-time payment for each cache node you want to reserve and, in turn, receive a significant discount on the hourly charge for that node.
 
-Amazon RDS RIs: Like Amazon EC2 RIs, Amazon RDS RIs can be purchased using No Upfront, Partial Upfront, or All Upfront terms. All Reserved Instance types are available for Aurora, MySQL, MariaDB, PostgreSQL, Oracle, and SQL Server database engines.
+**Amazon RDS RIs**: Like Amazon EC2 RIs, Amazon RDS RIs can be purchased using No Upfront, Partial Upfront, or All Upfront terms. All Reserved Instance types are available for Aurora, MySQL, MariaDB, PostgreSQL, Oracle, and SQL Server database engines.
 
-Amazon Redshift Reserved Nodes: If you intend to keep an Amazon Redshift cluster running continuously for a prolonged period, you should consider purchasing reserved-node offerings. These offerings provide significant savings over on-demand pricing, but they require you to reserve compute nodes and commit to paying for those nodes for either a 1- or 3-year duration.
+**Amazon Redshift Reserved Nodes**: If you intend to keep an Amazon Redshift cluster running continuously for a prolonged period, you should consider purchasing reserved-node offerings. These offerings provide significant savings over on-demand pricing, but they require you to reserve compute nodes and commit to paying for those nodes for either a 1- or 3-year duration.
 
 </details>
 
@@ -363,9 +363,15 @@ AWS Cost Allocation Tags Overview:
 
 ## Amazon Simple Workflow Service (SWF)
 
-It's a web service that makes it easy to coordinate work across distributed application components. SWF enables applications for a range of use cases, including media processing, web application back-ends, business process workflows, and analytics pipelines, to be designed as a coordination of tasks.
+It's a web service that makes it easy to **coordinate work across distributed application components**. SWF enables applications for a range of use cases, including media processing, web application back-ends, business process workflows, and analytics pipelines, to be designed as a coordination of tasks.
 
 Actors: - Workflow Starters; - Deciders; - Activity workers;
+
+---
+
+</br>
+
+## Amazon Chime
 
 ---
 

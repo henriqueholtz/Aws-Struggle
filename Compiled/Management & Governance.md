@@ -15,9 +15,9 @@ Think resource performance monitoring, events, and alerts; think CloudWatch;
 - Allow to create alarms to send notifications;
 - Billing metric data is stored in the US East (N. Virginia)
 - Offers features to:
-  - Collect (application logs, AWS Service Logs)
-  - Monitor (metric graphs like CPU, memory... Alarms and traces)
-  - Analyze (Insights)
+  - **Collect** (application logs, AWS Service Logs)
+  - **Monitor** (metric graphs like CPU, memory... Alarms and traces)
+  - **Analyze** (Insights: SQL queries)
 - CloudWatch Events rule that triggers on a schedule via a cron expression;
 
 ---
@@ -26,7 +26,7 @@ Think resource performance monitoring, events, and alerts; think CloudWatch;
 
 ## Amazon CloudWatch Logs
 
-You can use Amazon CloudWatch Logs to monitor, store, and access your log files from Amazon Elastic Compute Cloud (Amazon EC2) instances, AWS CloudTrail, Route 53, and other sources such as on-premises servers.
+You can use Amazon CloudWatch Logs to monitor, store, and access your log files from (Amazon EC2) instances, AWS CloudTrail, Route 53, and other sources such as on-premises servers.
 
 Amazon CloudWatch Logs enables you to centralize the logs from all of your systems, applications, and AWS services that you use, in a single, highly scalable service. You can then easily view them, search them for specific error codes or patterns, filter them based on specific fields, or archive them securely for future analysis
 
@@ -89,8 +89,10 @@ Allows organizations to create and manage catalogs of IT services that are appro
 - CloudTrail cannot help in identifying the right AWS services to build solutions on AWS Cloud.
 - You cannot use CloudTrail to track changes to each resource on AWS.
 - Billing alarms cannot be triggered via AWS CloudTrail.
-- By default, AWS CloudTrail logs all management events and does not include data events or Insights events. Additional charges apply for data and Insights events. All event types use the same CloudTrail JSON log format.
-- Management events are logged by default;
+- Event types: (All event types use the same CloudTrail JSON log format)
+  - **Management events** (logged by default)
+  - **Data events** (optional with additional fee)
+  - **Insights events** (optional with additional fee)
 
 ---
 
